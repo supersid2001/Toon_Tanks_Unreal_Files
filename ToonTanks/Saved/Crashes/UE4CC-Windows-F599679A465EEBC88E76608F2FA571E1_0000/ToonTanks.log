@@ -1,0 +1,946 @@
+﻿Log file open, 07/05/21 07:58:27
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: ToonTanks
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.098514
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-10757647
+LogInit: Engine Version: 4.24.1-10757647+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Dec 17 2019 02:08:03
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.07.05-11.58.28:251][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.07.05-11.58.28:251][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.07.05-11.58.28:251][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/Saved/Config/Windows/Engine.ini]
+[2021.07.05-11.58.28:251][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.07.05-11.58.28:251][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2021.07.05-11.58.28:251][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2021.07.05-11.58.28:251][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/Saved/Config/Windows/Engine.ini]
+[2021.07.05-11.58.28:251][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/Saved/Config/Windows/Engine.ini]
+[2021.07.05-11.58.28:251][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.07.05-11.58.28:251][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.07.05-11.58.28:251][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.07.05-11.58.28:252][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.07.05-11.58.28:252][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.07.05-11.58.28:252][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.07.05-11.58.28:252][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.07.05-11.58.28:252][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.07.05-11.58.28:252][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.07.05-11.58.28:252][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.07.05-11.58.28:252][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.07.05-11.58.28:252][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.07.05-11.58.28:252][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.07.05-11.58.28:252][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.07.05-11.58.28:252][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/Saved/Config/Windows/Engine.ini]
+[2021.07.05-11.58.28:252][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.07.05-11.58.28:252][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.07.05-11.58.28:252][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.07.05-11.58.28:252][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.07.05-11.58.28:252][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.07.05-11.58.28:252][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.07.05-11.58.28:252][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.07.05-11.58.28:252][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.07.05-11.58.28:252][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.07.05-11.58.28:252][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.07.05-11.58.28:252][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.07.05-11.58.28:252][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.07.05-11.58.28:252][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.07.05-11.58.28:252][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/Saved/Config/Windows/Engine.ini]
+[2021.07.05-11.58.28:252][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/Saved/Config/Windows/Engine.ini]
+[2021.07.05-11.58.28:255][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.07.05-11.58.28:255][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.07.05-11.58.28:255][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.07.05-11.58.28:255][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.07.05-11.58.28:255][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.07.05-11.58.28:255][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.07.05-11.58.28:255][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.07.05-11.58.28:255][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.07.05-11.58.28:255][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.07.05-11.58.28:255][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.07.05-11.58.28:255][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.07.05-11.58.28:255][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.07.05-11.58.28:255][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.07.05-11.58.28:255][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.07.05-11.58.28:255][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.07.05-11.58.28:255][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.07.05-11.58.28:256][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.07.05-11.58.28:256][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.07.05-11.58.28:256][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.07.05-11.58.28:256][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.07.05-11.58.28:256][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.07.05-11.58.28:256][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.07.05-11.58.28:256][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.07.05-11.58.28:256][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.07.05-11.58.28:256][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.07.05-11.58.28:256][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.07.05-11.58.28:256][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.07.05-11.58.28:256][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.07.05-11.58.28:256][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.07.05-11.58.28:256][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.07.05-11.58.28:256][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.07.05-11.58.28:256][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.07.05-11.58.28:256][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.07.05-11.58.28:256][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.07.05-11.58.28:256][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.07.05-11.58.28:256][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.07.05-11.58.28:256][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.07.05-11.58.28:256][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.07.05-11.58.28:256][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.07.05-11.58.28:256][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.07.05-11.58.28:256][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.07.05-11.58.28:256][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.07.05-11.58.28:256][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.07.05-11.58.28:256][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.07.05-11.58.28:256][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.07.05-11.58.28:256][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.07.05-11.58.28:256][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.07.05-11.58.28:256][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.07.05-11.58.28:256][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.07.05-11.58.28:256][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.07.05-11.58.28:256][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.07.05-11.58.28:256][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.07.05-11.58.28:256][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.07.05-11.58.28:256][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.07.05-11.58.28:256][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.07.05-11.58.28:256][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.07.05-11.58.28:256][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.07.05-11.58.28:256][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.07.05-11.58.28:257][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.07.05-11.58.28:257][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.07.05-11.58.28:257][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.07.05-11.58.28:257][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.07.05-11.58.28:257][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.07.05-11.58.28:257][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.07.05-11.58.28:257][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.07.05-11.58.28:257][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.07.05-11.58.28:257][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.07.05-11.58.28:257][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.07.05-11.58.28:257][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.07.05-11.58.28:257][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.07.05-11.58.28:257][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.07.05-11.58.28:257][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.07.05-11.58.28:257][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.07.05-11.58.28:257][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.07.05-11.58.28:257][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.07.05-11.58.28:257][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.07.05-11.58.28:257][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.07.05-11.58.28:257][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2021.07.05-11.58.28:257][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.07.05-11.58.28:257][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.07.05-11.58.28:257][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.07.05-11.58.28:257][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.07.05-11.58.28:257][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.07.05-11.58.28:257][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.07.05-11.58.28:257][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.07.05-11.58.28:257][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.07.05-11.58.28:257][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.07.05-11.58.28:257][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.07.05-11.58.28:257][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.07.05-11.58.28:257][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.07.05-11.58.28:257][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.07.05-11.58.28:257][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.07.05-11.58.28:257][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.07.05-11.58.28:257][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.07.05-11.58.28:257][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.07.05-11.58.28:257][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.07.05-11.58.28:257][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.07.05-11.58.28:257][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.07.05-11.58.28:257][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.07.05-11.58.28:257][  0]LogInit: Selected Device Profile: [Windows]
+[2021.07.05-11.58.28:257][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.07.05-11.58.28:261][  0]LogHAL: Display: Platform has ~ 16 GB [17042739200 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.07.05-11.58.28:261][  0]LogInit: Going up to parent DeviceProfile []
+[2021.07.05-11.58.28:261][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.07.05-11.58.28:261][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.07.05-11.58.28:261][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.07.05-11.58.28:261][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.07.05-11.58.28:261][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.07.05-11.58.28:261][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.07.05-11.58.28:261][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.07.05-11.58.28:261][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.07.05-11.58.28:261][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.07.05-11.58.28:261][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.07.05-11.58.28:261][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.07.05-11.58.28:261][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.07.05-11.58.28:261][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.07.05-11.58.28:261][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.07.05-11.58.28:261][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.07.05-11.58.28:261][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.07.05-11.58.28:261][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.07.05-11.58.28:261][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.07.05-11.58.28:261][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.07.05-11.58.28:261][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.07.05-11.58.28:261][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.07.05-11.58.28:261][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.07.05-11.58.28:261][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.07.05-11.58.28:261][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.07.05-11.58.28:261][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.07.05-11.58.28:261][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.07.05-11.58.28:261][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.07.05-11.58.28:261][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.07.05-11.58.28:261][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.07.05-11.58.28:261][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.07.05-11.58.28:261][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.07.05-11.58.28:261][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.07.05-11.58.28:261][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.07.05-11.58.28:261][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.07.05-11.58.28:261][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.07.05-11.58.28:261][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.07.05-11.58.28:261][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.07.05-11.58.28:261][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.07.05-11.58.28:261][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.07.05-11.58.28:261][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.07.05-11.58.28:261][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.07.05-11.58.28:261][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.07.05-11.58.28:261][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.07.05-11.58.28:261][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.07.05-11.58.28:261][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.07.05-11.58.28:262][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.07.05-11.58.28:262][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.07.05-11.58.28:262][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.07.05-11.58.28:262][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.07.05-11.58.28:262][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.07.05-11.58.28:262][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.07.05-11.58.28:262][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.07.05-11.58.28:262][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.07.05-11.58.28:262][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.07.05-11.58.28:262][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.07.05-11.58.28:262][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.07.05-11.58.28:262][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.07.05-11.58.28:262][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.07.05-11.58.28:262][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.07.05-11.58.28:262][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.07.05-11.58.28:262][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.07.05-11.58.28:262][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.07.05-11.58.28:262][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.07.05-11.58.28:262][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.07.05-11.58.28:262][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.07.05-11.58.28:262][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.07.05-11.58.28:262][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.07.05-11.58.28:262][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.07.05-11.58.28:262][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.07.05-11.58.28:262][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.07.05-11.58.28:262][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.07.05-11.58.28:262][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.07.05-11.58.28:262][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.07.05-11.58.28:262][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.07.05-11.58.28:262][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.07.05-11.58.28:262][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.07.05-11.58.28:262][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.07.05-11.58.28:262][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2021.07.05-11.58.28:262][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.07.05-11.58.28:262][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.07.05-11.58.28:262][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.07.05-11.58.28:262][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.07.05-11.58.28:262][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.07.05-11.58.28:262][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.07.05-11.58.28:262][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.07.05-11.58.28:262][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.07.05-11.58.28:262][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.07.05-11.58.28:262][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.07.05-11.58.28:262][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.07.05-11.58.28:262][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.07.05-11.58.28:262][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.07.05-11.58.28:262][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.07.05-11.58.28:262][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.07.05-11.58.28:262][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.07.05-11.58.28:263][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.07.05-11.58.28:263][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.07.05-11.58.28:263][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.07.05-11.58.28:263][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.07.05-11.58.28:263][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.07.05-11.58.28:263][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.07.05-11.58.28:263][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.07.05-11.58.28:263][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.07.05-11.58.28:263][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/Saved/Config/Windows/Engine.ini]
+[2021.07.05-11.58.28:263][  0]LogInit: Computer: DESKTOP-84VK7H5
+[2021.07.05-11.58.28:263][  0]LogInit: User: sidda
+[2021.07.05-11.58.28:263][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.07.05-11.58.28:263][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.07.05-11.58.28:263][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.07.05-11.58.28:263][  0]LogMemory: Platform Memory Stats for Windows
+[2021.07.05-11.58.28:263][  0]LogMemory: Process Physical Memory: 107.11 MB used, 107.11 MB peak
+[2021.07.05-11.58.28:263][  0]LogMemory: Process Virtual Memory: 100.96 MB used, 100.96 MB peak
+[2021.07.05-11.58.28:263][  0]LogMemory: Physical Memory: 10385.15 MB used,  5868.07 MB free, 16253.22 MB total
+[2021.07.05-11.58.28:263][  0]LogMemory: Virtual Memory: 5139.51 MB used,  134212592.00 MB free, 134217728.00 MB total
+[2021.07.05-11.58.28:727][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.07.05-11.58.28:752][  0]LogInit: Using OS detected language (en-US).
+[2021.07.05-11.58.28:752][  0]LogInit: Using OS detected locale (en-US).
+[2021.07.05-11.58.28:753][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.07.05-11.58.28:949][  0]LogInit: Setting process to per monitor DPI aware
+[2021.07.05-11.58.28:989][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.07.05-11.58.28:989][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.07.05-11.58.29:260][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.07.05-11.58.29:260][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.07.05-11.58.29:260][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.07.05-11.58.29:260][  0]LogD3D11RHI: D3D11 adapters:
+[2021.07.05-11.58.29:364][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2021.07.05-11.58.29:364][  0]LogD3D11RHI:       6052/0/8126 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.07.05-11.58.29:406][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2021.07.05-11.58.29:406][  0]LogD3D11RHI:       128/0/8126 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2021.07.05-11.58.29:409][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.07.05-11.58.29:409][  0]LogD3D11RHI:       0/0/8126 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.07.05-11.58.29:409][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.07.05-11.58.29:474][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.07.05-11.58.29:474][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2021.07.05-11.58.29:474][  0]LogWindows: EnumDisplayDevices:
+[2021.07.05-11.58.29:474][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2021.07.05-11.58.29:475][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2021.07.05-11.58.29:475][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2021.07.05-11.58.29:476][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2021.07.05-11.58.29:476][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2021.07.05-11.58.29:476][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2021.07.05-11.58.29:477][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2021.07.05-11.58.29:477][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2021.07.05-11.58.29:477][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2021.07.05-11.58.29:477][  0]LogD3D11RHI:   Driver Version: 446.14 (internal:26.21.14.4614, unified:446.14)
+[2021.07.05-11.58.29:477][  0]LogD3D11RHI:      Driver Date: 5-15-2020
+[2021.07.05-11.58.29:477][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2021.07.05-11.58.29:544][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.07.05-11.58.29:544][  0]LogD3D11RHI: Async texture creation enabled
+[2021.07.05-11.58.29:563][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.07.05-11.58.29:973][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.07.05-11.58.30:012][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.07.05-11.58.30:012][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.07.05-11.58.30:012][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2021.07.05-11.58.30:012][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.07.05-11.58.30:012][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2021.07.05-11.58.30:012][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2021.07.05-11.58.30:013][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.07.05-11.58.30:013][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2021.07.05-11.58.30:013][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.07.05-11.58.30:013][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.07.05-11.58.30:013][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2021.07.05-11.58.30:013][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.07.05-11.58.30:013][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2021.07.05-11.58.30:013][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2021.07.05-11.58.30:013][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.07.05-11.58.30:013][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2021.07.05-11.58.30:013][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.07.05-11.58.30:013][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.07.05-11.58.30:034][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.07.05-11.58.30:034][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.07.05-11.58.30:043][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.07.05-11.58.30:051][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.07.05-11.58.30:060][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.07.05-11.58.30:068][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.07.05-11.58.30:077][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.07.05-11.58.30:085][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.07.05-11.58.30:115][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.07.05-11.58.30:115][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.07.05-11.58.30:132][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.07.05-11.58.30:132][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.07.05-11.58.30:141][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.07.05-11.58.30:149][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.07.05-11.58.30:161][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.07.05-11.58.30:170][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.07.05-11.58.30:170][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.07.05-11.58.30:176][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.07.05-11.58.30:205][  0]LogShaderCompilers: Guid format shader working directory is -58 characters bigger than the processId version (../../../../../../Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/Intermediate/Shaders/WorkingDirectory/24892/).
+[2021.07.05-11.58.30:206][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/sidda/AppData/Local/Temp/UnrealShaderWorkingDir/82B283374899A407428C72A8A1CE86B5/'.
+[2021.07.05-11.58.30:206][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.07.05-11.58.30:207][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.07.05-11.58.30:207][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.07.05-11.58.31:004][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.07.05-11.58.31:054][  0]LogDerivedDataCache: Loaded boot cache 0.05s 78MB C:/Users/sidda/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2021.07.05-11.58.31:054][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/sidda/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2021.07.05-11.58.31:054][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.07.05-11.58.31:054][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.07.05-11.58.31:054][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.07.05-11.58.31:054][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.07.05-11.58.31:064][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.07.05-11.58.31:065][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.07.05-11.58.31:065][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.07.05-11.58.31:066][  0]LogDerivedDataCache: Using Local data cache path C:/Users/sidda/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.07.05-11.58.31:066][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.07.05-11.58.31:066][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.07.05-11.58.31:098][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2021.07.05-11.58.31:101][  0]LogSlate: Using FreeType 2.10.0
+[2021.07.05-11.58.31:101][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.07.05-11.58.31:161][  0]LogAssetRegistry: FAssetRegistry took 0.0031 seconds to start up
+[2021.07.05-11.58.31:495][  0]LogInit: Selected Device Profile: [Windows]
+[2021.07.05-11.58.31:651][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.07.05-11.58.31:651][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.07.05-11.58.31:651][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.07.05-11.58.31:651][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.07.05-11.58.31:651][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.07.05-11.58.31:664][  0]LogNetVersion: ToonTanks 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 2964582323)
+[2021.07.05-11.58.32:796][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.040713 seconds
+[2021.07.05-11.58.32:804][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2021.07.05-11.58.32:804][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2021.07.05-11.58.32:804][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.07.05-11.58.33:271][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.07.05-11.58.33:275][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.07.05-11.58.33:334][  0]SourceControl: Source control is disabled
+[2021.07.05-11.58.33:334][  0]SourceControl: Source control is disabled
+[2021.07.05-11.58.33:335][  0]SourceControl: Source control is disabled
+[2021.07.05-11.58.33:336][  0]SourceControl: Source control is disabled
+[2021.07.05-11.58.33:337][  0]SourceControl: Source control is disabled
+[2021.07.05-11.58.33:425][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.07.05-11.58.33:435][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.07.05-11.58.33:435][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.07.05-11.58.33:550][  0]LogOcInput: OculusInput pre-init called
+[2021.07.05-11.58.33:560][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.07.05-11.58.33:560][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.07.05-11.58.33:634][  0]LogEngine: Initializing Engine...
+[2021.07.05-11.58.33:636][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.07.05-11.58.33:637][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.07.05-11.58.33:975][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.07.05-11.58.33:985][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.07.05-11.58.34:001][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.05-11.58.34:001][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.05-11.58.34:001][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.05-11.58.34:001][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.05-11.58.34:001][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.05-11.58.34:001][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.05-11.58.34:001][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.05-11.58.34:001][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.05-11.58.34:002][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.05-11.58.34:002][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.05-11.58.34:059][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2021.07.05-11.58.34:059][  0]LogAudioMixer: Display: Name: Speakers / Headphones (Realtek Audio)
+[2021.07.05-11.58.34:059][  0]LogAudioMixer: Display: Is Default: Yes
+[2021.07.05-11.58.34:059][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2021.07.05-11.58.34:059][  0]LogAudioMixer: Display: Channel Count Used: 8
+[2021.07.05-11.58.34:059][  0]LogAudioMixer: Display: Device Channel Count: 8
+[2021.07.05-11.58.34:059][  0]LogAudioMixer: Display: Channel Order:
+[2021.07.05-11.58.34:059][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.05-11.58.34:059][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.07.05-11.58.34:059][  0]LogAudioMixer: Display: 2: FrontCenter
+[2021.07.05-11.58.34:059][  0]LogAudioMixer: Display: 3: LowFrequency
+[2021.07.05-11.58.34:059][  0]LogAudioMixer: Display: 4: BackLeft
+[2021.07.05-11.58.34:059][  0]LogAudioMixer: Display: 5: BackRight
+[2021.07.05-11.58.34:059][  0]LogAudioMixer: Display: 6: SideLeft
+[2021.07.05-11.58.34:059][  0]LogAudioMixer: Display: 7: SideRight
+[2021.07.05-11.58.34:376][  0]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2021.07.05-11.58.34:381][  0]LogInit: FAudioDevice initialized.
+[2021.07.05-11.58.34:381][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.07.05-11.58.34:434][  0]LogDerivedDataCache: Saved boot cache 0.05s 78MB C:/Users/sidda/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2021.07.05-11.58.34:435][  0]LogInit: Texture streaming: Enabled
+[2021.07.05-11.58.34:450][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.07.05-11.58.34:450][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.07.05-11.58.34:460][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.07.05-11.58.34:505][  0]LogInit: Transaction tracking system initialized
+[2021.07.05-11.58.34:516][  0]BlueprintLog: New page: Editor Load
+[2021.07.05-11.58.34:553][  0]LocalizationService: Localization service is disabled
+[2021.07.05-11.58.34:941][  0]LogFileCache: Scanning file cache for directory 'C:/Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/Content/' took 0.00s
+[2021.07.05-11.58.34:941][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.07.05-11.58.34:941][  0]LogCook: Display: Mobile HDR setting 1
+[2021.07.05-11.58.35:824][  0]SourceControl: Source control is disabled
+[2021.07.05-11.58.35:824][  0]Cmd: MAP LOAD FILE="../../../../../../Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/Content/Maps/Main.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.07.05-11.58.35:824][  0]LightingResults: New page: Lighting Build
+[2021.07.05-11.58.35:825][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.07.05-11.58.35:825][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.05-11.58.35:825][  0]MapCheck: New page: Map Check
+[2021.07.05-11.58.35:825][  0]LightingResults: New page: Lighting Build
+[2021.07.05-11.58.35:853][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2021.07.05-11.58.36:148][  0]LogAIModule: Creating AISystem for world Main
+[2021.07.05-11.58.36:155][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.07.05-11.58.36:185][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2021.07.05-11.58.36:185][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.07.05-11.58.36:186][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.2ms to complete.
+[2021.07.05-11.58.36:186][  0]LogFileHelpers: Loading map 'Main' took 0.363
+[2021.07.05-11.58.36:354][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.05-11.58.36:361][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.05-11.58.36:368][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.05-11.58.36:378][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.05-11.58.36:394][  0]LogCollectionManager: Loaded 0 collections in 0.001292 seconds
+[2021.07.05-11.58.36:426][  0]LogFileCache: Scanning file cache for directory 'C:/Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/Saved/Collections/' took 0.00s
+[2021.07.05-11.58.36:426][  0]LogFileCache: Scanning file cache for directory 'C:/Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/Content/Developers/sidda/Collections/' took 0.00s
+[2021.07.05-11.58.36:426][  0]LogFileCache: Scanning file cache for directory 'C:/Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/Content/Collections/' took 0.00s
+[2021.07.05-11.58.36:426][  0]LogContentBrowser: Native class hierarchy populated in 0.0099 seconds. Added 3022 classes and 723 folders.
+[2021.07.05-11.58.36:434][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.07.05-11.58.36:570][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.07.05-11.58.36:623][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 2 classes and 3 folders.
+[2021.07.05-11.58.37:909][  0]LogSlate: Took 0.000214 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.07.05-11.58.37:913][  0]LogSlate: Took 0.000269 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.07.05-11.58.37:923][  0]LogSlate: Took 0.000767 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.07.05-11.58.38:020][  0]LogRenderer: Reallocating scene render targets to support 708x252 Format 10 NumSamples 1 (Frame:1).
+[2021.07.05-11.58.38:133][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2021.07.05-11.58.38:133][  0]LogLoad: (Engine Initialization) Total time: 12.10 seconds
+[2021.07.05-11.58.38:133][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.07.05-11.58.38:211][  0]LogAssetRegistry: Asset discovery search completed in 7.0514 seconds
+[2021.07.05-11.58.38:215][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000012 seconds (updated 0 objects)
+[2021.07.05-11.58.38:216][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.07.05-11.58.38:248][  0]LogSlate: Took 0.001063 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.07.05-12.01.29:888][687]Candidate modules for hot reload:
+[2021.07.05-12.01.29:888][687]  ToonTanks
+[2021.07.05-12.01.29:888][687]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ToonTanks,1497 Win64 Development -TargetType=Editor -Project="C:/Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/ToonTanks.uproject" "C:/Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/ToonTanks.uproject"  -IgnoreJunk]
+[2021.07.05-12.01.29:897][687]Warning: Starting HotReload took  0.0s.
+[2021.07.05-12.01.37:757][924]CompilerResultsLog: New page: Compilation - Jul 5, 2021, 4:01:37 AM
+[2021.07.05-12.01.37:758][924]CompilerResultsLog: Building ToonTanksEditor...
+[2021.07.05-12.01.37:758][924]CompilerResultsLog: Using Visual Studio 2019 14.24.28314 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.07.05-12.01.37:758][924]CompilerResultsLog: Building 8 actions with 8 processes...
+[2021.07.05-12.01.37:758][924]CompilerResultsLog:   [1/8] ToonTanks.init.gen.cpp
+[2021.07.05-12.01.37:758][924]CompilerResultsLog:   [2/8] ProjectileBase.cpp
+[2021.07.05-12.01.37:758][924]CompilerResultsLog:   [3/8] PawnBase.cpp
+[2021.07.05-12.01.37:758][924]CompilerResultsLog:   [4/8] PawnTurret.cpp
+[2021.07.05-12.01.37:758][924]CompilerResultsLog:   [5/8] PawnBase.gen.cpp
+[2021.07.05-12.01.37:758][924]CompilerResultsLog:   [6/8] UE4Editor-ToonTanks-1497.lib
+[2021.07.05-12.01.37:758][924]CompilerResultsLog:      Creating library C:\Users\sidda\Downloads\ToonTanksProjectSetup_4.22\ToonTanksProjectSetup_4.22\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-1497.lib and object C:\Users\sidda\Downloads\ToonTanksProjectSetup_4.22\ToonTanksProjectSetup_4.22\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-1497.exp
+[2021.07.05-12.01.37:758][924]CompilerResultsLog:   [7/8] UE4Editor-ToonTanks-1497.dll
+[2021.07.05-12.01.37:758][924]CompilerResultsLog:      Creating library C:\Users\sidda\Downloads\ToonTanksProjectSetup_4.22\ToonTanksProjectSetup_4.22\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-1497.suppressed.lib and object C:\Users\sidda\Downloads\ToonTanksProjectSetup_4.22\ToonTanksProjectSetup_4.22\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-1497.suppressed.exp
+[2021.07.05-12.01.37:758][924]CompilerResultsLog:   [8/8] ToonTanksEditor.target
+[2021.07.05-12.01.37:758][924]CompilerResultsLog: Total time in Parallel executor: 6.19 seconds
+[2021.07.05-12.01.37:758][924]CompilerResultsLog: Total execution time: 7.66 seconds
+[2021.07.05-12.01.37:758][924]LogMainFrame: MainFrame: Module compiling took 7.880 seconds
+[2021.07.05-12.01.37:786][924]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.07.05-12.01.37:812][924]LogClass: Could not find existing class PawnBase in package /Script/ToonTanks for HotReload, assuming new class
+[2021.07.05-12.01.37:812][924]LogClass: Could not find existing class PawnTank in package /Script/ToonTanks for HotReload, assuming new class
+[2021.07.05-12.01.37:812][924]LogClass: Could not find existing class PawnTurret in package /Script/ToonTanks for HotReload, assuming new class
+[2021.07.05-12.01.37:821][924]LogHotReload: Re-instancing PawnBase after hot-reload.
+[2021.07.05-12.01.37:949][924]LogHotReload: Re-instancing PawnTank after hot-reload.
+[2021.07.05-12.01.38:042][924]LogHotReload: Re-instancing PawnTurret after hot-reload.
+[2021.07.05-12.01.38:247][924]LogContentBrowser: Native class hierarchy updated for 'ToonTanks' in 0.0006 seconds. Added 7 classes and 6 folders.
+[2021.07.05-12.01.38:250][924]Display: HotReload successful (2 functions remapped  0 scriptstructs remapped)
+[2021.07.05-12.01.38:329][924]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2021.07.05-12.01.38:341][924]LogContentBrowser: Native class hierarchy populated in 0.0075 seconds. Added 3024 classes and 726 folders.
+[2021.07.05-12.01.38:341][924]Display: HotReload took  8.5s.
+[2021.07.05-12.01.58:820][857]LogRenderer: Reallocating scene render targets to support 708x256 Format 10 NumSamples 1 (Frame:1).
+[2021.07.05-12.01.59:750][890]LogSlate: Took 0.000239 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.07.05-12.01.59:807][890]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrints/Pawns/BP_PawnTank.BP_PawnTank
+[2021.07.05-12.02.00:013][890]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0013 seconds. Added 121 classes and 0 folders.
+[2021.07.05-12.02.02:787][960]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.07.05-12.02.02:787][960]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.05-12.02.02:867][960]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrints/Pawns/BP_PawnTank.BP_PawnTank
+[2021.07.05-12.02.03:298][960]LogSlate: Took 0.000320 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.07.05-12.02.04:169][  9]LogSlate: Took 0.003602 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.07.05-12.02.07:409][131]LogRenderer: Reallocating scene render targets to support 708x424 Format 10 NumSamples 1 (Frame:1).
+[2021.07.05-12.02.33:787][327]BlueprintLog: New page: Compile BP_PawnTank
+[2021.07.05-12.02.34:024][327]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2021.07.05-12.02.47:516][814]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.07.05-12.02.59:207][472]Cmd: DELETE
+[2021.07.05-12.02.59:207][472]Cmd: ACTOR DELETE
+[2021.07.05-12.02.59:212][472]LogEditorActor: Deleted Actor: Brush
+[2021.07.05-12.02.59:248][472]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2021.07.05-12.02.59:251][472]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2021.07.05-12.03.03:043][651]LogActorFactory: Actor Factory created Cube
+[2021.07.05-12.03.03:362][669]LogActorFactory: Actor Factory created Cube
+[2021.07.05-12.03.22:713][323]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
+[2021.07.05-12.03.23:123][347]Cmd: DELETE
+[2021.07.05-12.03.23:123][347]Cmd: ACTOR DELETE
+[2021.07.05-12.03.23:124][347]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.05-12.03.23:156][347]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2021.07.05-12.03.23:157][347]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2021.07.05-12.03.24:741][435]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.07.05-12.03.24:956][435]LogSavePackage: Moving '../../../../../../Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/Saved/Main6E046D2D441F00D0209B7FAD4401A3A5.tmp' to '../../../../../../Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/Content/Maps/Main.umap'
+[2021.07.05-12.03.25:014][435]LogSavePackage: Moving '../../../../../../Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/Saved/Main_BuiltData638A86D34FED3E199F605088C1161FA1.tmp' to '../../../../../../Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/Content/Maps/Main_BuiltData.uasset'
+[2021.07.05-12.03.25:035][435]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.05-12.03.25:035][435]LogContentValidation: Display: Validating World /Game/Maps/Main.Main
+[2021.07.05-12.03.25:035][435]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Main_BuiltData.Main_BuiltData
+[2021.07.05-12.03.28:071][535]LogSavePackage: Moving '../../../../../../Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/Saved/BP_PawnTank0279944143495324E5196DBF99F4F510.tmp' to '../../../../../../Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/Content/BluePrints/Pawns/BP_PawnTank.uasset'
+[2021.07.05-12.03.28:088][535]AssetCheck: New page: Asset Save: BP_PawnTank
+[2021.07.05-12.03.28:088][535]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/Pawns/BP_PawnTank.BP_PawnTank
+[2021.07.05-12.03.33:054][738]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Engine/BasicShapes/Cube.Cube
+[2021.07.05-12.03.33:931][738]LogRenderer: Reallocating scene render targets to support 952x564 Format 10 NumSamples 1 (Frame:1).
+[2021.07.05-12.03.36:375][806]LogSlate: Window 'Cube' being destroyed
+[2021.07.05-12.03.56:045][782]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.07.05-12.03.56:045][782]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh' 
+[2021.07.05-12.03.57:594][875]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=0.250 Y=0.000 Z=0.000
+[2021.07.05-12.03.57:627][877]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.000
+[2021.07.05-12.03.57:644][878]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=0.750 Y=0.000 Z=0.000
+[2021.07.05-12.03.57:694][881]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=0.000
+[2021.07.05-12.03.57:711][882]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=1.250 Y=0.000 Z=0.000
+[2021.07.05-12.03.57:744][884]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=1.500 Y=0.000 Z=0.000
+[2021.07.05-12.03.58:010][900]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=1.750 Y=0.000 Z=0.000
+[2021.07.05-12.03.58:027][901]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=0.000 Z=0.000
+[2021.07.05-12.03.58:044][902]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=2.250 Y=0.000 Z=0.000
+[2021.07.05-12.03.58:061][903]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=2.500 Y=0.000 Z=0.000
+[2021.07.05-12.03.58:077][904]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=3.000 Y=0.000 Z=0.000
+[2021.07.05-12.03.58:111][906]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=3.250 Y=0.000 Z=0.000
+[2021.07.05-12.03.58:313][918]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=3.500 Y=0.000 Z=0.000
+[2021.07.05-12.03.58:364][921]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=3.750 Y=0.000 Z=0.000
+[2021.07.05-12.03.58:379][922]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=4.000 Y=0.000 Z=0.000
+[2021.07.05-12.03.58:396][923]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=4.250 Y=0.000 Z=0.000
+[2021.07.05-12.03.58:412][924]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=4.750 Y=0.000 Z=0.000
+[2021.07.05-12.03.58:445][926]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=5.000 Y=0.000 Z=0.000
+[2021.07.05-12.03.58:464][927]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=5.250 Y=0.000 Z=0.000
+[2021.07.05-12.04.01:099][ 85]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=5.500 Y=0.000 Z=0.000
+[2021.07.05-12.04.01:133][ 87]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=5.750 Y=0.000 Z=0.000
+[2021.07.05-12.04.01:149][ 88]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=6.000 Y=0.000 Z=0.000
+[2021.07.05-12.04.01:499][109]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=6.250 Y=0.000 Z=0.000
+[2021.07.05-12.04.01:533][111]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=6.500 Y=0.000 Z=0.000
+[2021.07.05-12.04.01:566][113]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=6.750 Y=0.000 Z=0.000
+[2021.07.05-12.04.01:584][114]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=7.000 Y=0.000 Z=0.000
+[2021.07.05-12.04.01:599][115]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=7.250 Y=0.000 Z=0.000
+[2021.07.05-12.04.01:633][117]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=7.500 Y=0.000 Z=0.000
+[2021.07.05-12.04.01:900][133]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=7.750 Y=0.000 Z=0.000
+[2021.07.05-12.04.01:949][136]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=8.000 Y=0.000 Z=0.000
+[2021.07.05-12.04.01:982][138]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=8.250 Y=0.000 Z=0.000
+[2021.07.05-12.04.01:999][139]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=8.500 Y=0.000 Z=0.000
+[2021.07.05-12.04.02:033][141]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=8.750 Y=0.000 Z=0.000
+[2021.07.05-12.04.02:083][144]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=9.000 Y=0.000 Z=0.000
+[2021.07.05-12.04.02:416][164]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=9.250 Y=0.000 Z=0.000
+[2021.07.05-12.04.02:450][166]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=9.500 Y=0.000 Z=0.000
+[2021.07.05-12.04.02:483][168]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=9.750 Y=0.000 Z=0.000
+[2021.07.05-12.04.02:516][170]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=10.000 Y=0.000 Z=0.000
+[2021.07.05-12.04.03:033][201]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=10.250 Y=0.000 Z=0.000
+[2021.07.05-12.04.03:066][203]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=10.500 Y=0.000 Z=0.000
+[2021.07.05-12.04.03:083][204]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=11.000 Y=0.000 Z=0.000
+[2021.07.05-12.04.03:100][205]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=11.250 Y=0.000 Z=0.000
+[2021.07.05-12.04.03:116][206]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=11.500 Y=0.000 Z=0.000
+[2021.07.05-12.04.03:133][207]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=11.750 Y=0.000 Z=0.000
+[2021.07.05-12.04.03:386][222]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=12.000 Y=0.000 Z=0.000
+[2021.07.05-12.04.03:403][223]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=12.500 Y=0.000 Z=0.000
+[2021.07.05-12.04.03:419][224]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=13.000 Y=0.000 Z=0.000
+[2021.07.05-12.04.03:436][225]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=13.250 Y=0.000 Z=0.000
+[2021.07.05-12.04.03:453][226]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=13.500 Y=0.000 Z=0.000
+[2021.07.05-12.04.03:469][227]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=14.000 Y=0.000 Z=0.000
+[2021.07.05-12.04.03:735][243]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=14.500 Y=0.000 Z=0.000
+[2021.07.05-12.04.03:752][244]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=15.000 Y=0.000 Z=0.000
+[2021.07.05-12.04.03:768][245]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=15.250 Y=0.000 Z=0.000
+[2021.07.05-12.04.03:785][246]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=15.500 Y=0.000 Z=0.000
+[2021.07.05-12.04.03:802][247]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=16.000 Y=0.000 Z=0.000
+[2021.07.05-12.04.03:820][248]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=16.250 Y=0.000 Z=0.000
+[2021.07.05-12.04.04:069][263]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=16.750 Y=0.000 Z=0.000
+[2021.07.05-12.04.04:086][264]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=17.000 Y=0.000 Z=0.000
+[2021.07.05-12.04.04:102][265]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=17.250 Y=0.000 Z=0.000
+[2021.07.05-12.04.04:120][266]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=17.750 Y=0.000 Z=0.000
+[2021.07.05-12.04.07:475][467]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=18.250 Y=0.000 Z=0.000
+[2021.07.05-12.04.07:507][469]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=18.500 Y=0.000 Z=0.000
+[2021.07.05-12.04.07:524][470]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=19.000 Y=0.000 Z=0.000
+[2021.07.05-12.04.07:541][471]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=19.250 Y=0.000 Z=0.000
+[2021.07.05-12.04.07:574][473]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=19.500 Y=0.000 Z=0.000
+[2021.07.05-12.04.07:841][489]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=19.750 Y=0.000 Z=0.000
+[2021.07.05-12.04.07:857][490]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=20.000 Y=0.000 Z=0.000
+[2021.07.05-12.04.07:874][491]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=20.250 Y=0.000 Z=0.000
+[2021.07.05-12.04.07:891][492]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=20.500 Y=0.000 Z=0.000
+[2021.07.05-12.04.07:907][493]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=20.750 Y=0.000 Z=0.000
+[2021.07.05-12.04.07:924][494]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=21.000 Y=0.000 Z=0.000
+[2021.07.05-12.04.07:941][495]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=21.250 Y=0.000 Z=0.000
+[2021.07.05-12.04.08:191][510]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=21.500 Y=0.000 Z=0.000
+[2021.07.05-12.04.08:224][512]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=21.750 Y=0.000 Z=0.000
+[2021.07.05-12.04.08:241][513]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=22.250 Y=0.000 Z=0.000
+[2021.07.05-12.04.08:275][515]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=22.500 Y=0.000 Z=0.000
+[2021.07.05-12.04.08:291][516]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=22.750 Y=0.000 Z=0.000
+[2021.07.05-12.04.08:342][519]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=23.000 Y=0.000 Z=0.000
+[2021.07.05-12.04.08:641][537]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=23.250 Y=0.000 Z=0.000
+[2021.07.05-12.04.08:658][538]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=23.500 Y=0.000 Z=0.000
+[2021.07.05-12.04.08:690][540]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=24.000 Y=0.000 Z=0.000
+[2021.07.05-12.04.08:724][542]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=24.250 Y=0.000 Z=0.000
+[2021.07.05-12.04.09:008][559]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=24.500 Y=0.000 Z=0.000
+[2021.07.05-12.04.09:025][560]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=24.750 Y=0.000 Z=0.000
+[2021.07.05-12.04.09:057][562]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=25.000 Y=0.000 Z=0.000
+[2021.07.05-12.04.09:075][563]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=25.250 Y=0.000 Z=0.000
+[2021.07.05-12.04.09:091][564]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=25.500 Y=0.000 Z=0.000
+[2021.07.05-12.04.09:257][574]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=25.750 Y=0.000 Z=0.000
+[2021.07.05-12.04.09:792][606]LogEditorTransaction: Undo Modify Component(s)
+[2021.07.05-12.04.09:794][606]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=17.750 Y=0.000 Z=0.000
+[2021.07.05-12.04.09:974][606]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=17.750 Y=0.000 Z=0.000
+[2021.07.05-12.04.17:972][961]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=17.750 Y=0.000 Z=0.000
+[2021.07.05-12.04.18:021][964]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=17.750 Y=0.000 Z=0.000
+[2021.07.05-12.04.18:072][967]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=17.750 Y=0.000 Z=0.000
+[2021.07.05-12.04.18:154][972]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=17.750 Y=0.000 Z=0.000
+[2021.07.05-12.04.18:305][981]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=17.750 Y=0.000 Z=0.000
+[2021.07.05-12.04.18:871][ 15]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=17.750 Y=0.000 Z=0.000
+[2021.07.05-12.04.20:106][ 89]LogEditorTransaction: Undo Modify Component(s)
+[2021.07.05-12.04.20:108][ 89]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=17.750 Y=0.000 Z=0.000
+[2021.07.05-12.04.20:238][ 89]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=17.750 Y=0.000 Z=0.000
+[2021.07.05-12.04.20:423][ 95]LogEditorTransaction: Undo Modify Component(s)
+[2021.07.05-12.04.20:428][ 95]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=5.250 Y=0.000 Z=0.000
+[2021.07.05-12.04.20:621][ 95]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=5.250 Y=0.000 Z=0.000
+[2021.07.05-12.04.23:244][175]LogEditorTransaction: Undo Modify Component(s)
+[2021.07.05-12.04.23:292][175]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.07.05-12.04.23:292][175]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh' 
+[2021.07.05-12.04.23:396][175]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2021.07.05-12.04.23:397][175]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_4:PersistentLevel.BP_PawnTank_C_0.Lazer Mesh' 
+[2021.07.05-12.04.38:081][922]LogEditorTransaction: Undo Modify Component(s)
+[2021.07.05-12.05.10:851][470]LogSavePackage: Moving '../../../../../../Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/Saved/BP_PawnTank0C28321041773B3A2308A3B26F3F076F.tmp' to '../../../../../../Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/Content/BluePrints/Pawns/BP_PawnTank.uasset'
+[2021.07.05-12.05.10:871][470]AssetCheck: New page: Asset Save: BP_PawnTank
+[2021.07.05-12.05.10:871][470]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/Pawns/BP_PawnTank.BP_PawnTank
+[2021.07.05-12.05.21:163][763]LogMaterial: Display: Missing cached shader map for material M_Glow, compiling. 
+[2021.07.05-12.05.21:281][763]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 43
+[2021.07.05-12.05.21:281][763]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 33
+[2021.07.05-12.05.21:281][763]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 23
+[2021.07.05-12.05.21:281][763]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2021.07.05-12.05.27:157][ 34]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.07.05-12.05.28:530][111]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.07.05-12.05.28:605][111]LogSavePackage: Moving '../../../../../../Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/Saved/BP_PawnTank459E0DEA435055F24D9BD38546255E38.tmp' to '../../../../../../Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/Content/BluePrints/Pawns/BP_PawnTank.uasset'
+[2021.07.05-12.05.28:645][111]AssetCheck: New page: Asset Save: BP_PawnTank
+[2021.07.05-12.05.28:645][111]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/Pawns/BP_PawnTank.BP_PawnTank
+[2021.07.05-12.05.29:222][145]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2021.07.05-12.05.30:815][230]BlueprintLog: New page: Compile BP_PawnTank
+[2021.07.05-12.05.31:182][230]LogUObjectHash: Compacting FUObjectHashTables data took   5.21ms
+[2021.07.05-12.05.51:011][191]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Materials/MI_Glow_Instance_Player.MI_Glow_Instance_Player
+[2021.07.05-12.05.56:608][470]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2021.07.05-12.05.56:623][470]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.05-12.05.56:955][470]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.07.05-12.05.56:955][470]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.07.05-12.05.56:956][470]TextureStreamingBuild: Display: Compiling optional shaders took 0.345 seconds.
+[2021.07.05-12.05.56:992][470]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2021.07.05-12.05.57:001][470]LogSavePackage: Moving '../../../../../../Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/Saved/MI_Glow_Instance_Player8FF2711142C135FE0257BAAD3F967536.tmp' to '../../../../../../Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/Content/Materials/MI_Glow_Instance_Player.uasset'
+[2021.07.05-12.05.57:017][470]AssetCheck: New page: Asset Save: MI_Glow_Instance_Player
+[2021.07.05-12.05.57:017][470]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/MI_Glow_Instance_Player.MI_Glow_Instance_Player
+[2021.07.05-12.06.15:122][387]LogSavePackage: Moving '../../../../../../Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/Saved/BP_PawnTank1D375999455406C14402049557F9EABC.tmp' to '../../../../../../Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/Content/BluePrints/Pawns/BP_PawnTank.uasset'
+[2021.07.05-12.06.15:142][387]AssetCheck: New page: Asset Save: BP_PawnTank
+[2021.07.05-12.06.15:142][387]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/Pawns/BP_PawnTank.BP_PawnTank
+[2021.07.05-12.06.17:515][519]BlueprintLog: New page: Compile BP_PawnTank
+[2021.07.05-12.06.17:815][519]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2021.07.05-12.06.18:341][530]LogSavePackage: Moving '../../../../../../Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/Saved/BP_PawnTank82EACFC5401B728117C08990A0917C4A.tmp' to '../../../../../../Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/Content/BluePrints/Pawns/BP_PawnTank.uasset'
+[2021.07.05-12.06.18:361][530]AssetCheck: New page: Asset Save: BP_PawnTank
+[2021.07.05-12.06.18:362][530]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/Pawns/BP_PawnTank.BP_PawnTank
+[2021.07.05-12.06.20:889][643]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.05-12.06.20:906][643]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2021.07.05-12.06.20:906][643]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.05-12.06.20:906][643]PIE: New page: PIE session: Main (Jul 5, 2021, 4:06:20 AM)
+[2021.07.05-12.06.20:908][643]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.07.05-12.06.20:911][643]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.07.05-12.06.20:911][643]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2021.07.05-12.06.20:916][643]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004654s)
+[2021.07.05-12.06.20:917][643]LogAIModule: Creating AISystem for world Main
+[2021.07.05-12.06.20:917][643]LogPlayLevel: PIE: World Init took: (0.001128s)
+[2021.07.05-12.06.20:917][643]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.006190s)
+[2021.07.05-12.06.20:951][643]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2021.07.05-12.06.20:952][643]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.05-12.06.20:952][643]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.05-12.06.20:952][643]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.05-12.06.20:952][643]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.05-12.06.20:952][643]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.05-12.06.20:952][643]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.05-12.06.20:952][643]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.05-12.06.20:952][643]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.05-12.06.20:953][643]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.05-12.06.20:953][643]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.05-12.06.20:976][643]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2021.07.05-12.06.20:976][643]LogAudioMixer: Display: Name: Speakers / Headphones (Realtek Audio)
+[2021.07.05-12.06.20:976][643]LogAudioMixer: Display: Is Default: Yes
+[2021.07.05-12.06.20:976][643]LogAudioMixer: Display: Sample Rate: 48000
+[2021.07.05-12.06.20:976][643]LogAudioMixer: Display: Channel Count Used: 8
+[2021.07.05-12.06.20:976][643]LogAudioMixer: Display: Device Channel Count: 8
+[2021.07.05-12.06.20:976][643]LogAudioMixer: Display: Channel Order:
+[2021.07.05-12.06.20:976][643]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.05-12.06.20:976][643]LogAudioMixer: Display: 1: FrontRight
+[2021.07.05-12.06.20:976][643]LogAudioMixer: Display: 2: FrontCenter
+[2021.07.05-12.06.20:976][643]LogAudioMixer: Display: 3: LowFrequency
+[2021.07.05-12.06.20:976][643]LogAudioMixer: Display: 4: BackLeft
+[2021.07.05-12.06.20:977][643]LogAudioMixer: Display: 5: BackRight
+[2021.07.05-12.06.20:977][643]LogAudioMixer: Display: 6: SideLeft
+[2021.07.05-12.06.20:977][643]LogAudioMixer: Display: 7: SideRight
+[2021.07.05-12.06.21:091][643]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2021.07.05-12.06.21:092][643]LogInit: FAudioDevice initialized.
+[2021.07.05-12.06.21:141][643]LogLoad: Game class is 'BP_GameModeBase_C'
+[2021.07.05-12.06.21:144][643]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2021.07.05-08.06.21
+[2021.07.05-12.06.21:145][643]LogWorld: Bringing up level for play took: 0.001856
+[2021.07.05-12.06.21:145][643]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2021.07.05-12.06.21:153][643]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 20 classes and 0 folders.
+[2021.07.05-12.06.21:161][643]LogTemp: Warning: 100.000000 health
+[2021.07.05-12.06.21:162][643]LogTemp: Warning: 100.000000 health
+[2021.07.05-12.06.21:162][643]LogTemp: Warning: 100.000000 health
+[2021.07.05-12.06.21:162][643]LogTemp: Warning: 100.000000 health
+[2021.07.05-12.06.21:162][643]LogTemp: Warning: 100.000000 health
+[2021.07.05-12.06.21:163][643]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main 0.024
+[2021.07.05-12.06.21:163][643]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2021.07.05-12.06.22:906][726]LogTemp: Warning: Fire Condition Checked
+[2021.07.05-12.06.22:906][726]LogTemp: Warning: Fire Condition Checked
+[2021.07.05-12.06.22:906][726]LogTemp: Warning: Fire Condition Checked
+[2021.07.05-12.06.22:906][726]LogTemp: Warning: Fire Condition Checked
+[2021.07.05-12.06.24:906][846]LogTemp: Warning: Fire Condition Checked
+[2021.07.05-12.06.24:906][846]LogTemp: Warning: Fire Condition Checked
+[2021.07.05-12.06.24:906][846]LogTemp: Warning: Fire Condition Checked
+[2021.07.05-12.06.24:906][846]LogTemp: Warning: Fire Condition Checked
+[2021.07.05-12.06.26:906][966]LogTemp: Warning: Fire Condition Checked
+[2021.07.05-12.06.26:906][966]LogTemp: Warning: Fire Condition Checked
+[2021.07.05-12.06.26:906][966]LogTemp: Warning: Fire Condition Checked
+[2021.07.05-12.06.26:906][966]LogTemp: Warning: Fire Condition Checked
+[2021.07.05-12.06.27:020][972]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.07.05-12.06.27:084][972]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.064 s
+[2021.07.05-12.06.27:084][972]LogOutputDevice: Error: === Handled ensure: ===
+[2021.07.05-12.06.27:084][972]LogOutputDevice: Error: 
+[2021.07.05-12.06.27:084][972]LogOutputDevice: Error: Ensure condition failed: InvocationList[ CurFunctionIndex ] != InDelegate [File:d:\build\++ue4\sync\engine\source\runtime\core\public\UObject/ScriptDelegates.h] [Line: 556]
+[2021.07.05-12.06.27:084][972]LogOutputDevice: Error: 
+[2021.07.05-12.06.27:084][972]LogOutputDevice: Error: Stack: 
+[2021.07.05-12.06.27:084][972]LogOutputDevice: Error: [Callstack] 0x00007ffa01bb0599 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.05-12.06.27:084][972]LogOutputDevice: Error: [Callstack] 0x00007ffa01a94cb4 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.05-12.06.27:084][972]LogOutputDevice: Error: [Callstack] 0x00007ffa56a22547 UE4Editor-ToonTanks-1497.dll!TSparseDynamicDelegate<FComponentHitSignature_MCSignature,UPrimitiveComponent,FComponentHitSignatureInfoGetter>::__Internal_AddDynamic<AProjectileBase>() [C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject\SparseDelegate.h:348]
+[2021.07.05-12.06.27:084][972]LogOutputDevice: Error: [Callstack] 0x00007ffa56a22b20 UE4Editor-ToonTanks-1497.dll!AProjectileBase::BeginPlay() [C:\Users\sidda\Downloads\ToonTanksProjectSetup_4.22\ToonTanksProjectSetup_4.22\ToonTanks\Source\ToonTanks\Actors\ProjectileBase.cpp:32]
+[2021.07.05-12.06.27:084][972]LogOutputDevice: Error: [Callstack] 0x00007ff9fcb5c80d UE4Editor-Engine.dll!UnknownFunction []
+[2021.07.05-12.06.27:084][972]LogOutputDevice: Error: [Callstack] 0x00007ff9fcb8470a UE4Editor-Engine.dll!UnknownFunction []
+[2021.07.05-12.06.27:084][972]LogOutputDevice: Error: [Callstack] 0x00007ff9fcb6aa60 UE4Editor-Engine.dll!UnknownFunction []
+[2021.07.05-12.06.27:084][972]LogOutputDevice: Error: [Callstack] 0x00007ff9fcb87615 UE4Editor-Engine.dll!UnknownFunction []
+[2021.07.05-12.06.27:085][972]LogOutputDevice: Error: [Callstack] 0x00007ff9fd460d4f UE4Editor-Engine.dll!UnknownFunction []
+[2021.07.05-12.06.27:085][972]LogOutputDevice: Error: [Callstack] 0x00007ff9fd461227 UE4Editor-Engine.dll!UnknownFunction []
+[2021.07.05-12.06.27:085][972]LogOutputDevice: Error: [Callstack] 0x00007ffa56a24aa9 UE4Editor-ToonTanks-1497.dll!APawnBase::Fire() [C:\Users\sidda\Downloads\ToonTanksProjectSetup_4.22\ToonTanksProjectSetup_4.22\ToonTanks\Source\ToonTanks\Pawns\PawnBase.cpp:47]
+[2021.07.05-12.06.27:085][972]LogOutputDevice: Error: [Callstack] 0x00007ff9fdda3db6 UE4Editor-Engine.dll!UnknownFunction []
+[2021.07.05-12.06.27:085][972]LogOutputDevice: Error: [Callstack] 0x00007ff9fddcd071 UE4Editor-Engine.dll!UnknownFunction []
+[2021.07.05-12.06.27:085][972]LogOutputDevice: Error: [Callstack] 0x00007ff9fd8afd93 UE4Editor-Engine.dll!UnknownFunction []
+[2021.07.05-12.06.27:085][972]LogOutputDevice: Error: [Callstack] 0x00007ff9fd8c1b8d UE4Editor-Engine.dll!UnknownFunction []
+[2021.07.05-12.06.27:085][972]LogOutputDevice: Error: [Callstack] 0x00007ff9fd8add1b UE4Editor-Engine.dll!UnknownFunction []
+[2021.07.05-12.06.27:085][972]LogOutputDevice: Error: [Callstack] 0x00007ff9fd8bffb7 UE4Editor-Engine.dll!UnknownFunction []
+[2021.07.05-12.06.27:085][972]LogOutputDevice: Error: [Callstack] 0x00007ff9fcb67896 UE4Editor-Engine.dll!UnknownFunction []
+[2021.07.05-12.06.27:085][972]LogOutputDevice: Error: [Callstack] 0x00007ff9fdca6123 UE4Editor-Engine.dll!UnknownFunction []
+[2021.07.05-12.06.27:085][972]LogOutputDevice: Error: [Callstack] 0x00007ff9fdcb4116 UE4Editor-Engine.dll!UnknownFunction []
+[2021.07.05-12.06.27:085][972]LogOutputDevice: Error: [Callstack] 0x00007ffa01e49ff2 UE4Editor-Core.dll!UnknownFunction []
+[2021.07.05-12.06.27:085][972]LogOutputDevice: Error: [Callstack] 0x00007ffa01e4a393 UE4Editor-Core.dll!UnknownFunction []
+[2021.07.05-12.06.27:085][972]LogOutputDevice: Error: [Callstack] 0x00007ffa01e5aa68 UE4Editor-Core.dll!UnknownFunction []
+[2021.07.05-12.06.27:085][972]LogOutputDevice: Error: [Callstack] 0x00007ff9fdcd2860 UE4Editor-Engine.dll!UnknownFunction []
+[2021.07.05-12.06.27:085][972]LogOutputDevice: Error: [Callstack] 0x00007ff9fdcd84f2 UE4Editor-Engine.dll!UnknownFunction []
+[2021.07.05-12.06.27:085][972]LogOutputDevice: Error: [Callstack] 0x00007ff9fd459f3f UE4Editor-Engine.dll!UnknownFunction []
+[2021.07.05-12.06.27:085][972]LogOutputDevice: Error: [Callstack] 0x00007ff9fd464e07 UE4Editor-Engine.dll!UnknownFunction []
+[2021.07.05-12.06.27:085][972]LogOutputDevice: Error: [Callstack] 0x00007ff9faebadb0 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.07.05-12.06.27:085][972]LogOutputDevice: Error: [Callstack] 0x00007ff9fb71dd66 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.07.05-12.06.27:085][972]LogOutputDevice: Error: [Callstack] 0x00007ff658b77f62 UE4Editor.exe!UnknownFunction []
+[2021.07.05-12.06.27:085][972]LogOutputDevice: Error: [Callstack] 0x00007ff658b8c3ec UE4Editor.exe!UnknownFunction []
+[2021.07.05-12.06.27:085][972]LogOutputDevice: Error: [Callstack] 0x00007ff658b8c4ca UE4Editor.exe!UnknownFunction []
+[2021.07.05-12.06.27:085][972]LogOutputDevice: Error: [Callstack] 0x00007ff658b9ceae UE4Editor.exe!UnknownFunction []
+[2021.07.05-12.06.27:085][972]LogOutputDevice: Error: [Callstack] 0x00007ff658b9fcbe UE4Editor.exe!UnknownFunction []
+[2021.07.05-12.06.27:085][972]LogOutputDevice: Error: [Callstack] 0x00007ffaa48b7034 KERNEL32.DLL!UnknownFunction []
+[2021.07.05-12.06.27:085][972]LogOutputDevice: Error: [Callstack] 0x00007ffaa5c82651 ntdll.dll!UnknownFunction []
+[2021.07.05-12.06.27:085][972]LogOutputDevice: Error: 
+[2021.07.05-12.06.27:089][972]LogStats:                SubmitErrorReport -  0.000 s

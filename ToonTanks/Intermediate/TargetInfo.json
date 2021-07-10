@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ToonTanks",
+			"Path": "C:\\Users\\sidda\\Downloads\\ToonTanksProjectSetup_4.22\\ToonTanksProjectSetup_4.22\\ToonTanks\\Source\\ToonTanks.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ToonTanksEditor",
+			"Path": "C:\\Users\\sidda\\Downloads\\ToonTanksProjectSetup_4.22\\ToonTanksProjectSetup_4.22\\ToonTanks\\Source\\ToonTanksEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

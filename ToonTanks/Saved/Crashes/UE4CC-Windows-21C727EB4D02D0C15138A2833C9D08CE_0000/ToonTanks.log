@@ -1,0 +1,1131 @@
+﻿Log file open, 07/03/21 02:18:39
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: ToonTanks
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.106047
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-10757647
+LogInit: Engine Version: 4.24.1-10757647+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Dec 17 2019 02:08:03
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.07.03-06.18.40:216][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.07.03-06.18.40:216][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.07.03-06.18.40:216][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/Saved/Config/Windows/Engine.ini]
+[2021.07.03-06.18.40:216][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.07.03-06.18.40:216][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2021.07.03-06.18.40:216][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2021.07.03-06.18.40:216][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/Saved/Config/Windows/Engine.ini]
+[2021.07.03-06.18.40:216][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/Saved/Config/Windows/Engine.ini]
+[2021.07.03-06.18.40:216][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.07.03-06.18.40:216][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.07.03-06.18.40:216][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.07.03-06.18.40:216][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.07.03-06.18.40:216][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.07.03-06.18.40:216][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.07.03-06.18.40:216][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.07.03-06.18.40:216][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.07.03-06.18.40:216][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.07.03-06.18.40:216][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.07.03-06.18.40:216][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.07.03-06.18.40:216][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.07.03-06.18.40:216][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.07.03-06.18.40:216][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.07.03-06.18.40:216][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/Saved/Config/Windows/Engine.ini]
+[2021.07.03-06.18.40:216][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.07.03-06.18.40:216][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.07.03-06.18.40:216][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.07.03-06.18.40:216][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.07.03-06.18.40:216][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.07.03-06.18.40:216][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.07.03-06.18.40:216][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.07.03-06.18.40:216][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.07.03-06.18.40:216][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.07.03-06.18.40:216][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.07.03-06.18.40:216][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.07.03-06.18.40:216][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.07.03-06.18.40:217][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.07.03-06.18.40:217][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/Saved/Config/Windows/Engine.ini]
+[2021.07.03-06.18.40:217][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/Saved/Config/Windows/Engine.ini]
+[2021.07.03-06.18.40:220][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.07.03-06.18.40:220][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.07.03-06.18.40:220][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.07.03-06.18.40:220][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.07.03-06.18.40:221][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.07.03-06.18.40:221][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.07.03-06.18.40:221][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.07.03-06.18.40:221][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.07.03-06.18.40:221][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.07.03-06.18.40:221][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.07.03-06.18.40:221][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.07.03-06.18.40:221][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.07.03-06.18.40:221][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.07.03-06.18.40:221][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.07.03-06.18.40:221][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.07.03-06.18.40:221][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.07.03-06.18.40:221][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.07.03-06.18.40:221][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.07.03-06.18.40:221][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.07.03-06.18.40:221][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.07.03-06.18.40:221][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.07.03-06.18.40:221][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.07.03-06.18.40:222][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.07.03-06.18.40:222][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.07.03-06.18.40:222][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.07.03-06.18.40:222][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.07.03-06.18.40:222][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.07.03-06.18.40:222][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.07.03-06.18.40:222][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.07.03-06.18.40:222][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.07.03-06.18.40:222][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.07.03-06.18.40:222][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.07.03-06.18.40:222][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.07.03-06.18.40:222][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.07.03-06.18.40:222][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.07.03-06.18.40:222][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.07.03-06.18.40:222][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.07.03-06.18.40:222][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.07.03-06.18.40:222][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.07.03-06.18.40:222][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.07.03-06.18.40:222][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.07.03-06.18.40:222][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.07.03-06.18.40:222][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.07.03-06.18.40:222][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.07.03-06.18.40:222][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.07.03-06.18.40:222][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.07.03-06.18.40:222][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.07.03-06.18.40:222][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.07.03-06.18.40:222][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.07.03-06.18.40:222][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.07.03-06.18.40:223][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.07.03-06.18.40:223][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.07.03-06.18.40:223][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.07.03-06.18.40:223][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.07.03-06.18.40:223][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.07.03-06.18.40:223][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.07.03-06.18.40:223][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.07.03-06.18.40:223][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.07.03-06.18.40:223][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.07.03-06.18.40:223][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.07.03-06.18.40:223][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.07.03-06.18.40:223][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.07.03-06.18.40:223][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.07.03-06.18.40:223][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.07.03-06.18.40:223][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.07.03-06.18.40:223][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.07.03-06.18.40:223][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.07.03-06.18.40:223][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.07.03-06.18.40:223][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.07.03-06.18.40:223][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.07.03-06.18.40:223][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.07.03-06.18.40:223][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.07.03-06.18.40:223][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.07.03-06.18.40:223][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.07.03-06.18.40:223][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.07.03-06.18.40:223][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.07.03-06.18.40:223][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.07.03-06.18.40:223][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2021.07.03-06.18.40:223][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.07.03-06.18.40:223][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.07.03-06.18.40:223][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.07.03-06.18.40:223][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.07.03-06.18.40:223][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.07.03-06.18.40:223][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.07.03-06.18.40:224][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.07.03-06.18.40:224][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.07.03-06.18.40:224][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.07.03-06.18.40:224][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.07.03-06.18.40:224][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.07.03-06.18.40:224][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.07.03-06.18.40:224][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.07.03-06.18.40:224][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.07.03-06.18.40:224][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.07.03-06.18.40:224][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.07.03-06.18.40:224][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.07.03-06.18.40:224][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.07.03-06.18.40:224][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.07.03-06.18.40:224][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.07.03-06.18.40:224][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.07.03-06.18.40:224][  0]LogInit: Selected Device Profile: [Windows]
+[2021.07.03-06.18.40:224][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.07.03-06.18.40:229][  0]LogHAL: Display: Platform has ~ 16 GB [17042739200 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.07.03-06.18.40:229][  0]LogInit: Going up to parent DeviceProfile []
+[2021.07.03-06.18.40:230][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.07.03-06.18.40:230][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.07.03-06.18.40:230][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.07.03-06.18.40:230][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.07.03-06.18.40:230][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.07.03-06.18.40:230][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.07.03-06.18.40:230][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.07.03-06.18.40:230][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.07.03-06.18.40:230][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.07.03-06.18.40:230][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.07.03-06.18.40:230][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.07.03-06.18.40:230][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.07.03-06.18.40:230][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.07.03-06.18.40:230][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.07.03-06.18.40:230][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.07.03-06.18.40:230][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.07.03-06.18.40:230][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.07.03-06.18.40:230][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.07.03-06.18.40:230][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.07.03-06.18.40:231][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.07.03-06.18.40:231][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.07.03-06.18.40:231][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.07.03-06.18.40:231][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.07.03-06.18.40:231][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.07.03-06.18.40:231][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.07.03-06.18.40:231][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.07.03-06.18.40:231][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.07.03-06.18.40:231][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.07.03-06.18.40:231][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.07.03-06.18.40:231][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.07.03-06.18.40:231][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.07.03-06.18.40:231][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.07.03-06.18.40:231][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.07.03-06.18.40:231][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.07.03-06.18.40:231][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.07.03-06.18.40:231][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.07.03-06.18.40:231][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.07.03-06.18.40:231][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.07.03-06.18.40:231][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.07.03-06.18.40:231][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.07.03-06.18.40:231][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.07.03-06.18.40:231][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.07.03-06.18.40:231][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.07.03-06.18.40:231][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.07.03-06.18.40:231][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.07.03-06.18.40:231][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.07.03-06.18.40:231][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.07.03-06.18.40:231][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.07.03-06.18.40:231][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.07.03-06.18.40:231][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.07.03-06.18.40:231][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.07.03-06.18.40:232][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.07.03-06.18.40:232][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.07.03-06.18.40:232][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.07.03-06.18.40:232][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.07.03-06.18.40:232][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.07.03-06.18.40:232][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.07.03-06.18.40:232][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.07.03-06.18.40:232][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.07.03-06.18.40:232][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.07.03-06.18.40:232][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.07.03-06.18.40:232][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.07.03-06.18.40:232][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.07.03-06.18.40:232][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.07.03-06.18.40:232][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.07.03-06.18.40:232][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.07.03-06.18.40:232][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.07.03-06.18.40:232][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.07.03-06.18.40:232][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.07.03-06.18.40:232][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.07.03-06.18.40:232][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.07.03-06.18.40:232][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.07.03-06.18.40:232][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.07.03-06.18.40:232][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.07.03-06.18.40:232][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.07.03-06.18.40:232][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.07.03-06.18.40:232][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.07.03-06.18.40:232][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2021.07.03-06.18.40:232][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.07.03-06.18.40:232][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.07.03-06.18.40:232][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.07.03-06.18.40:232][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.07.03-06.18.40:233][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.07.03-06.18.40:233][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.07.03-06.18.40:233][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.07.03-06.18.40:233][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.07.03-06.18.40:233][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.07.03-06.18.40:233][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.07.03-06.18.40:233][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.07.03-06.18.40:233][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.07.03-06.18.40:233][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.07.03-06.18.40:233][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.07.03-06.18.40:233][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.07.03-06.18.40:233][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.07.03-06.18.40:233][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.07.03-06.18.40:233][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.07.03-06.18.40:233][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.07.03-06.18.40:233][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.07.03-06.18.40:233][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.07.03-06.18.40:233][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.07.03-06.18.40:234][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.07.03-06.18.40:234][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.07.03-06.18.40:234][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/Saved/Config/Windows/Engine.ini]
+[2021.07.03-06.18.40:234][  0]LogInit: Computer: DESKTOP-84VK7H5
+[2021.07.03-06.18.40:234][  0]LogInit: User: sidda
+[2021.07.03-06.18.40:234][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.07.03-06.18.40:234][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.07.03-06.18.40:234][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.07.03-06.18.40:234][  0]LogMemory: Platform Memory Stats for Windows
+[2021.07.03-06.18.40:234][  0]LogMemory: Process Physical Memory: 106.96 MB used, 106.96 MB peak
+[2021.07.03-06.18.40:234][  0]LogMemory: Process Virtual Memory: 100.84 MB used, 100.84 MB peak
+[2021.07.03-06.18.40:234][  0]LogMemory: Physical Memory: 8685.45 MB used,  7567.78 MB free, 16253.22 MB total
+[2021.07.03-06.18.40:234][  0]LogMemory: Virtual Memory: 5139.51 MB used,  134212592.00 MB free, 134217728.00 MB total
+[2021.07.03-06.18.40:240][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.07.03-06.18.40:267][  0]LogInit: Using OS detected language (en-US).
+[2021.07.03-06.18.40:267][  0]LogInit: Using OS detected locale (en-US).
+[2021.07.03-06.18.40:268][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.07.03-06.18.40:472][  0]LogInit: Setting process to per monitor DPI aware
+[2021.07.03-06.18.40:517][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.07.03-06.18.40:517][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.07.03-06.18.40:768][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.07.03-06.18.40:768][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.07.03-06.18.40:768][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.07.03-06.18.40:768][  0]LogD3D11RHI: D3D11 adapters:
+[2021.07.03-06.18.40:872][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2021.07.03-06.18.40:872][  0]LogD3D11RHI:       6052/0/8126 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.07.03-06.18.40:916][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2021.07.03-06.18.40:916][  0]LogD3D11RHI:       128/0/8126 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2021.07.03-06.18.40:919][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.07.03-06.18.40:919][  0]LogD3D11RHI:       0/0/8126 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.07.03-06.18.40:919][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.07.03-06.18.40:980][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.07.03-06.18.40:980][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2021.07.03-06.18.40:980][  0]LogWindows: EnumDisplayDevices:
+[2021.07.03-06.18.40:981][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2021.07.03-06.18.40:981][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2021.07.03-06.18.40:982][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2021.07.03-06.18.40:982][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2021.07.03-06.18.40:982][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2021.07.03-06.18.40:983][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2021.07.03-06.18.40:983][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2021.07.03-06.18.40:983][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2021.07.03-06.18.40:983][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2021.07.03-06.18.40:983][  0]LogD3D11RHI:   Driver Version: 446.14 (internal:26.21.14.4614, unified:446.14)
+[2021.07.03-06.18.40:983][  0]LogD3D11RHI:      Driver Date: 5-15-2020
+[2021.07.03-06.18.40:983][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2021.07.03-06.18.41:053][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.07.03-06.18.41:053][  0]LogD3D11RHI: Async texture creation enabled
+[2021.07.03-06.18.41:070][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.07.03-06.18.41:490][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.07.03-06.18.41:525][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.07.03-06.18.41:526][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.07.03-06.18.41:526][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2021.07.03-06.18.41:526][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.07.03-06.18.41:526][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2021.07.03-06.18.41:526][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2021.07.03-06.18.41:526][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.07.03-06.18.41:526][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2021.07.03-06.18.41:526][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.07.03-06.18.41:526][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.07.03-06.18.41:526][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2021.07.03-06.18.41:526][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.07.03-06.18.41:526][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2021.07.03-06.18.41:526][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2021.07.03-06.18.41:526][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.07.03-06.18.41:526][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2021.07.03-06.18.41:526][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.07.03-06.18.41:526][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.07.03-06.18.41:548][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.07.03-06.18.41:548][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.07.03-06.18.41:556][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.07.03-06.18.41:565][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.07.03-06.18.41:573][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.07.03-06.18.41:581][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.07.03-06.18.41:589][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.07.03-06.18.41:598][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.07.03-06.18.41:628][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.07.03-06.18.41:629][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.07.03-06.18.41:649][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.07.03-06.18.41:649][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.07.03-06.18.41:657][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.07.03-06.18.41:668][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.07.03-06.18.41:677][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.07.03-06.18.41:687][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.07.03-06.18.41:687][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.07.03-06.18.41:690][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.07.03-06.18.41:719][  0]LogShaderCompilers: Guid format shader working directory is -58 characters bigger than the processId version (../../../../../../Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/Intermediate/Shaders/WorkingDirectory/17416/).
+[2021.07.03-06.18.41:720][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/sidda/AppData/Local/Temp/UnrealShaderWorkingDir/EE4E85FD48604F6DB5BFD1A3687AE549/'.
+[2021.07.03-06.18.41:720][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.07.03-06.18.41:720][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.07.03-06.18.41:720][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.07.03-06.18.42:558][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.07.03-06.18.42:615][  0]LogDerivedDataCache: Loaded boot cache 0.06s 78MB C:/Users/sidda/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2021.07.03-06.18.42:615][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/sidda/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2021.07.03-06.18.42:615][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.07.03-06.18.42:615][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.07.03-06.18.42:615][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.07.03-06.18.42:615][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.07.03-06.18.42:625][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.07.03-06.18.42:625][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.07.03-06.18.42:625][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.07.03-06.18.42:626][  0]LogDerivedDataCache: Using Local data cache path C:/Users/sidda/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.07.03-06.18.42:627][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.07.03-06.18.42:627][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.07.03-06.18.42:655][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2021.07.03-06.18.42:657][  0]LogSlate: Using FreeType 2.10.0
+[2021.07.03-06.18.42:658][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.07.03-06.18.42:720][  0]LogAssetRegistry: FAssetRegistry took 0.0029 seconds to start up
+[2021.07.03-06.18.43:074][  0]LogInit: Selected Device Profile: [Windows]
+[2021.07.03-06.18.43:246][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.07.03-06.18.43:246][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.07.03-06.18.43:246][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.07.03-06.18.43:246][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.07.03-06.18.43:246][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.07.03-06.18.43:260][  0]LogNetVersion: ToonTanks 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 2964582323)
+[2021.07.03-06.18.44:466][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.041871 seconds
+[2021.07.03-06.18.44:473][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2021.07.03-06.18.44:473][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2021.07.03-06.18.44:473][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.07.03-06.18.44:943][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.07.03-06.18.44:948][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.07.03-06.18.45:016][  0]SourceControl: Source control is disabled
+[2021.07.03-06.18.45:016][  0]SourceControl: Source control is disabled
+[2021.07.03-06.18.45:018][  0]SourceControl: Source control is disabled
+[2021.07.03-06.18.45:019][  0]SourceControl: Source control is disabled
+[2021.07.03-06.18.45:021][  0]SourceControl: Source control is disabled
+[2021.07.03-06.18.45:146][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.07.03-06.18.45:158][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.07.03-06.18.45:158][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.07.03-06.18.45:307][  0]LogOcInput: OculusInput pre-init called
+[2021.07.03-06.18.45:324][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.07.03-06.18.45:324][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.07.03-06.18.45:451][  0]LogEngine: Initializing Engine...
+[2021.07.03-06.18.45:452][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.07.03-06.18.45:453][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.07.03-06.18.46:201][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.07.03-06.18.46:211][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.07.03-06.18.46:242][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.03-06.18.46:242][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.03-06.18.46:242][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.03-06.18.46:242][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.03-06.18.46:242][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.03-06.18.46:242][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.03-06.18.46:242][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.03-06.18.46:242][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.03-06.18.46:243][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.03-06.18.46:243][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.03-06.18.46:316][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2021.07.03-06.18.46:316][  0]LogAudioMixer: Display: Name: Speakers / Headphones (Realtek Audio)
+[2021.07.03-06.18.46:316][  0]LogAudioMixer: Display: Is Default: Yes
+[2021.07.03-06.18.46:316][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2021.07.03-06.18.46:317][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2021.07.03-06.18.46:317][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2021.07.03-06.18.46:317][  0]LogAudioMixer: Display: Channel Order:
+[2021.07.03-06.18.46:317][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.03-06.18.46:317][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.07.03-06.18.46:552][  0]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2021.07.03-06.18.46:562][  0]LogInit: FAudioDevice initialized.
+[2021.07.03-06.18.46:563][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.07.03-06.18.46:713][  0]LogDerivedDataCache: Saved boot cache 0.15s 78MB C:/Users/sidda/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2021.07.03-06.18.46:715][  0]LogInit: Texture streaming: Enabled
+[2021.07.03-06.18.46:747][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.07.03-06.18.46:747][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.07.03-06.18.46:764][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.07.03-06.18.46:840][  0]LogInit: Transaction tracking system initialized
+[2021.07.03-06.18.46:857][  0]BlueprintLog: New page: Editor Load
+[2021.07.03-06.18.46:918][  0]LocalizationService: Localization service is disabled
+[2021.07.03-06.18.47:550][  0]LogFileCache: Scanning file cache for directory 'C:/Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/Content/' took 0.00s
+[2021.07.03-06.18.47:550][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.07.03-06.18.47:550][  0]LogCook: Display: Mobile HDR setting 1
+[2021.07.03-06.18.49:035][  0]SourceControl: Source control is disabled
+[2021.07.03-06.18.49:035][  0]Cmd: MAP LOAD FILE="../../../../../../Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/Content/Maps/Main.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.07.03-06.18.49:036][  0]LightingResults: New page: Lighting Build
+[2021.07.03-06.18.49:037][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.07.03-06.18.49:037][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.03-06.18.49:037][  0]MapCheck: New page: Map Check
+[2021.07.03-06.18.49:037][  0]LightingResults: New page: Lighting Build
+[2021.07.03-06.18.49:068][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2021.07.03-06.18.49:610][  0]LogAIModule: Creating AISystem for world Main
+[2021.07.03-06.18.49:620][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.07.03-06.18.49:656][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2021.07.03-06.18.49:656][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.07.03-06.18.49:657][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.238ms to complete.
+[2021.07.03-06.18.49:657][  0]LogFileHelpers: Loading map 'Main' took 0.622
+[2021.07.03-06.18.49:865][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.03-06.18.49:873][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.03-06.18.49:883][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.03-06.18.49:890][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.03-06.18.49:907][  0]LogCollectionManager: Loaded 0 collections in 0.001744 seconds
+[2021.07.03-06.18.49:939][  0]LogFileCache: Scanning file cache for directory 'C:/Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/Saved/Collections/' took 0.00s
+[2021.07.03-06.18.49:939][  0]LogFileCache: Scanning file cache for directory 'C:/Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/Content/Developers/sidda/Collections/' took 0.00s
+[2021.07.03-06.18.49:939][  0]LogFileCache: Scanning file cache for directory 'C:/Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/Content/Collections/' took 0.00s
+[2021.07.03-06.18.49:939][  0]LogContentBrowser: Native class hierarchy populated in 0.0093 seconds. Added 3020 classes and 721 folders.
+[2021.07.03-06.18.49:948][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2021.07.03-06.18.50:163][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2021.07.03-06.18.50:224][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 2 classes and 3 folders.
+[2021.07.03-06.18.51:942][  0]LogSlate: Took 0.000292 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.07.03-06.18.51:947][  0]LogSlate: Took 0.000908 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.07.03-06.18.51:953][  0]LogSlate: Took 0.000674 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.07.03-06.18.52:040][  0]LogRenderer: Reallocating scene render targets to support 708x252 Format 10 NumSamples 1 (Frame:1).
+[2021.07.03-06.18.52:225][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2021.07.03-06.18.52:226][  0]LogLoad: (Engine Initialization) Total time: 13.98 seconds
+[2021.07.03-06.18.52:226][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.07.03-06.18.52:316][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.07.03-06.18.52:343][  0]LogSlate: Took 0.000872 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.07.03-06.18.52:365][  1]LogAssetRegistry: Asset discovery search completed in 9.6460 seconds
+[2021.07.03-06.18.52:370][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000009 seconds (updated 0 objects)
+[2021.07.03-06.21.57:767][348]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.03-06.21.57:776][348]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2021.07.03-06.21.57:778][348]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.03-06.21.57:782][348]PIE: New page: PIE session: Main (Jul 2, 2021, 10:21:57 PM)
+[2021.07.03-06.21.57:782][348]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.07.03-06.21.57:785][348]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.07.03-06.21.57:786][348]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2021.07.03-06.21.57:792][348]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004402s)
+[2021.07.03-06.21.57:793][348]LogAIModule: Creating AISystem for world Main
+[2021.07.03-06.21.57:793][348]LogPlayLevel: PIE: World Init took: (0.001755s)
+[2021.07.03-06.21.57:794][348]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.006746s)
+[2021.07.03-06.21.57:815][348]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2021.07.03-06.21.57:817][348]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.03-06.21.57:817][348]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.03-06.21.57:817][348]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.03-06.21.57:817][348]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.03-06.21.57:817][348]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.03-06.21.57:817][348]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.03-06.21.57:817][348]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.03-06.21.57:817][348]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.03-06.21.57:818][348]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.03-06.21.57:818][348]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.03-06.21.57:834][348]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2021.07.03-06.21.57:834][348]LogAudioMixer: Display: Name: Speakers / Headphones (Realtek Audio)
+[2021.07.03-06.21.57:834][348]LogAudioMixer: Display: Is Default: Yes
+[2021.07.03-06.21.57:834][348]LogAudioMixer: Display: Sample Rate: 48000
+[2021.07.03-06.21.57:834][348]LogAudioMixer: Display: Channel Count Used: 2
+[2021.07.03-06.21.57:834][348]LogAudioMixer: Display: Device Channel Count: 2
+[2021.07.03-06.21.57:834][348]LogAudioMixer: Display: Channel Order:
+[2021.07.03-06.21.57:834][348]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.03-06.21.57:834][348]LogAudioMixer: Display: 1: FrontRight
+[2021.07.03-06.21.57:912][348]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2021.07.03-06.21.57:914][348]LogInit: FAudioDevice initialized.
+[2021.07.03-06.21.57:951][348]LogLoad: Game class is 'BP_GameModeBase_C'
+[2021.07.03-06.21.57:959][348]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2021.07.03-02.21.57
+[2021.07.03-06.21.57:965][348]LogWorld: Bringing up level for play took: 0.007059
+[2021.07.03-06.21.57:970][348]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2021.07.03-06.21.57:990][348]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2021.07.03-06.21.57:998][348]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main 0.895
+[2021.07.03-06.21.57:998][348]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2021.07.03-06.21.59:767][448]LogTemp: Warning: Fire Condition Checked
+[2021.07.03-06.22.01:772][568]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.07.03-06.22.01:867][568]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.095 s
+[2021.07.03-06.22.01:867][568]LogOutputDevice: Error: === Handled ensure: ===
+[2021.07.03-06.22.01:867][568]LogOutputDevice: Error: 
+[2021.07.03-06.22.01:867][568]LogOutputDevice: Error: Ensure condition failed: InvocationList[ CurFunctionIndex ] != InDelegate [File:d:\build\++ue4\sync\engine\source\runtime\core\public\UObject/ScriptDelegates.h] [Line: 556]
+[2021.07.03-06.22.01:867][568]LogOutputDevice: Error: 
+[2021.07.03-06.22.01:867][568]LogOutputDevice: Error: Stack: 
+[2021.07.03-06.22.01:867][568]LogOutputDevice: Error: [Callstack] 0x00007ffa3a5a0599 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.03-06.22.01:867][568]LogOutputDevice: Error: [Callstack] 0x00007ffa3a484cb4 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.03-06.22.01:867][568]LogOutputDevice: Error: [Callstack] 0x00007ff9f1a920e7 UE4Editor-ToonTanks-1598.dll!TSparseDynamicDelegate<FComponentHitSignature_MCSignature,UPrimitiveComponent,FComponentHitSignatureInfoGetter>::__Internal_AddDynamic<AProjectileBase>() [C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject\SparseDelegate.h:348]
+[2021.07.03-06.22.01:867][568]LogOutputDevice: Error: [Callstack] 0x00007ff9f1a9259e UE4Editor-ToonTanks-1598.dll!AProjectileBase::BeginPlay() [C:\Users\sidda\Downloads\ToonTanksProjectSetup_4.22\ToonTanksProjectSetup_4.22\ToonTanks\Source\ToonTanks\Actors\ProjectileBase.cpp:28]
+[2021.07.03-06.22.01:867][568]LogOutputDevice: Error: [Callstack] 0x00007ff9f730c80d UE4Editor-Engine.dll!UnknownFunction []
+[2021.07.03-06.22.01:867][568]LogOutputDevice: Error: [Callstack] 0x00007ff9f733470a UE4Editor-Engine.dll!UnknownFunction []
+[2021.07.03-06.22.01:867][568]LogOutputDevice: Error: [Callstack] 0x00007ff9f731aa60 UE4Editor-Engine.dll!UnknownFunction []
+[2021.07.03-06.22.01:867][568]LogOutputDevice: Error: [Callstack] 0x00007ff9f7337615 UE4Editor-Engine.dll!UnknownFunction []
+[2021.07.03-06.22.01:868][568]LogOutputDevice: Error: [Callstack] 0x00007ff9f7c10d4f UE4Editor-Engine.dll!UnknownFunction []
+[2021.07.03-06.22.01:868][568]LogOutputDevice: Error: [Callstack] 0x00007ff9f7c11227 UE4Editor-Engine.dll!UnknownFunction []
+[2021.07.03-06.22.01:868][568]LogOutputDevice: Error: [Callstack] 0x00007ff9f1a92fa9 UE4Editor-ToonTanks-1598.dll!APawnBase::Fire() [C:\Users\sidda\Downloads\ToonTanksProjectSetup_4.22\ToonTanksProjectSetup_4.22\ToonTanks\Source\ToonTanks\Pawns\PawnBase.cpp:40]
+[2021.07.03-06.22.01:868][568]LogOutputDevice: Error: [Callstack] 0x00007ff9f1a9580d UE4Editor-ToonTanks-1598.dll!APawnTurret::CheckFireCondition() [C:\Users\sidda\Downloads\ToonTanksProjectSetup_4.22\ToonTanksProjectSetup_4.22\ToonTanks\Source\ToonTanks\Pawns\PawnTurret.cpp:47]
+[2021.07.03-06.22.01:868][568]LogOutputDevice: Error: [Callstack] 0x00007ff9f845fed9 UE4Editor-Engine.dll!UnknownFunction []
+[2021.07.03-06.22.01:868][568]LogOutputDevice: Error: [Callstack] 0x00007ff9f84928ed UE4Editor-Engine.dll!UnknownFunction []
+[2021.07.03-06.22.01:868][568]LogOutputDevice: Error: [Callstack] 0x00007ff9f7c16519 UE4Editor-Engine.dll!UnknownFunction []
+[2021.07.03-06.22.01:868][568]LogOutputDevice: Error: [Callstack] 0x00007ffa380cadb0 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.07.03-06.22.01:868][568]LogOutputDevice: Error: [Callstack] 0x00007ffa3892dd66 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.07.03-06.22.01:868][568]LogOutputDevice: Error: [Callstack] 0x00007ff70b1f7f62 UE4Editor.exe!UnknownFunction []
+[2021.07.03-06.22.01:868][568]LogOutputDevice: Error: [Callstack] 0x00007ff70b20c3ec UE4Editor.exe!UnknownFunction []
+[2021.07.03-06.22.01:868][568]LogOutputDevice: Error: [Callstack] 0x00007ff70b20c4ca UE4Editor.exe!UnknownFunction []
+[2021.07.03-06.22.01:868][568]LogOutputDevice: Error: [Callstack] 0x00007ff70b21ceae UE4Editor.exe!UnknownFunction []
+[2021.07.03-06.22.01:868][568]LogOutputDevice: Error: [Callstack] 0x00007ff70b21fcbe UE4Editor.exe!UnknownFunction []
+[2021.07.03-06.22.01:868][568]LogOutputDevice: Error: [Callstack] 0x00007ffa94227034 KERNEL32.DLL!UnknownFunction []
+[2021.07.03-06.22.01:868][568]LogOutputDevice: Error: [Callstack] 0x00007ffa960c2651 ntdll.dll!UnknownFunction []
+[2021.07.03-06.22.01:868][568]LogOutputDevice: Error: 
+[2021.07.03-06.22.01:875][568]LogStats:                SubmitErrorReport -  0.000 s
+[2021.07.03-06.22.03:784][568]LogStats:                    SendNewReport -  1.908 s
+[2021.07.03-06.22.03:784][568]LogStats:             FDebug::EnsureFailed -  2.012 s
+[2021.07.03-06.22.03:784][568]LogTemp: Warning: FIREEE
+[2021.07.03-06.22.03:784][568]LogTemp: Warning: Fire Condition Checked
+[2021.07.03-06.22.05:397][665]LogTemp: Warning: FIREEE
+[2021.07.03-06.22.05:397][665]LogTemp: Warning: Fire Condition Checked
+[2021.07.03-06.22.05:698][683]LogTemp: Warning: FIREEE
+[2021.07.03-06.22.06:015][702]LogTemp: Warning: FIREEE
+[2021.07.03-06.22.07:397][785]LogTemp: Warning: FIREEE
+[2021.07.03-06.22.07:397][785]LogTemp: Warning: Fire Condition Checked
+[2021.07.03-06.22.08:000][821]LogTemp: Warning: FIREEE
+[2021.07.03-06.22.08:350][842]LogTemp: Warning: FIREEE
+[2021.07.03-06.22.08:615][858]LogTemp: Warning: FIREEE
+[2021.07.03-06.22.08:832][871]LogTemp: Warning: FIREEE
+[2021.07.03-06.22.09:397][905]LogTemp: Warning: FIREEE
+[2021.07.03-06.22.09:397][905]LogTemp: Warning: Fire Condition Checked
+[2021.07.03-06.22.09:615][918]LogTemp: Warning: FIREEE
+[2021.07.03-06.22.11:398][ 25]LogTemp: Warning: Fire Condition Checked
+[2021.07.03-06.22.13:399][145]LogTemp: Warning: FIREEE
+[2021.07.03-06.22.13:399][145]LogTemp: Warning: Fire Condition Checked
+[2021.07.03-06.22.14:918][236]LogTemp: Warning: FIREEE
+[2021.07.03-06.22.15:117][248]LogTemp: Warning: FIREEE
+[2021.07.03-06.22.15:317][260]LogTemp: Warning: FIREEE
+[2021.07.03-06.22.15:400][265]LogTemp: Warning: FIREEE
+[2021.07.03-06.22.15:400][265]LogTemp: Warning: Fire Condition Checked
+[2021.07.03-06.22.16:820][350]LogTemp: Warning: FIREEE
+[2021.07.03-06.22.17:035][363]LogTemp: Warning: FIREEE
+[2021.07.03-06.22.17:201][373]LogTemp: Warning: FIREEE
+[2021.07.03-06.22.17:368][383]LogTemp: Warning: FIREEE
+[2021.07.03-06.22.17:400][385]LogTemp: Warning: FIREEE
+[2021.07.03-06.22.17:400][385]LogTemp: Warning: Fire Condition Checked
+[2021.07.03-06.22.17:534][393]LogTemp: Warning: FIREEE
+[2021.07.03-06.22.17:735][405]LogTemp: Warning: FIREEE
+[2021.07.03-06.22.17:935][417]LogTemp: Warning: FIREEE
+[2021.07.03-06.22.18:118][428]LogTemp: Warning: FIREEE
+[2021.07.03-06.22.19:051][484]LogTemp: Warning: FIREEE
+[2021.07.03-06.22.19:234][495]LogTemp: Warning: FIREEE
+[2021.07.03-06.22.19:401][505]LogTemp: Warning: FIREEE
+[2021.07.03-06.22.19:401][505]LogTemp: Warning: Fire Condition Checked
+[2021.07.03-06.22.19:418][506]LogTemp: Warning: FIREEE
+[2021.07.03-06.22.19:585][516]LogTemp: Warning: FIREEE
+[2021.07.03-06.22.19:801][529]LogTemp: Warning: FIREEE
+[2021.07.03-06.22.20:585][576]LogTemp: Warning: FIREEE
+[2021.07.03-06.22.21:401][625]LogTemp: Warning: FIREEE
+[2021.07.03-06.22.21:401][625]LogTemp: Warning: Fire Condition Checked
+[2021.07.03-06.22.23:401][745]LogTemp: Warning: Fire Condition Checked
+[2021.07.03-06.22.25:401][865]LogTemp: Warning: Fire Condition Checked
+[2021.07.03-06.22.26:619][938]LogTemp: Warning: FIREEE
+[2021.07.03-06.22.26:787][948]LogTemp: Warning: FIREEE
+[2021.07.03-06.22.26:987][960]LogTemp: Warning: FIREEE
+[2021.07.03-06.22.27:138][969]LogTemp: Warning: FIREEE
+[2021.07.03-06.22.27:336][981]LogTemp: Warning: FIREEE
+[2021.07.03-06.22.27:403][985]LogTemp: Warning: Fire Condition Checked
+[2021.07.03-06.22.29:395][101]LogTemp: Warning: Fire Condition Checked
+[2021.07.03-06.22.30:312][154]LogTemp: Warning: FIREEE
+[2021.07.03-06.22.30:513][166]LogTemp: Warning: FIREEE
+[2021.07.03-06.22.30:695][177]LogTemp: Warning: FIREEE
+[2021.07.03-06.22.31:395][219]LogTemp: Warning: Fire Condition Checked
+[2021.07.03-06.22.31:628][233]LogTemp: Warning: FIREEE
+[2021.07.03-06.22.31:812][244]LogTemp: Warning: FIREEE
+[2021.07.03-06.22.32:029][257]LogTemp: Warning: FIREEE
+[2021.07.03-06.22.32:229][269]LogTemp: Warning: FIREEE
+[2021.07.03-06.22.32:896][309]LogTemp: Warning: FIREEE
+[2021.07.03-06.22.33:313][334]LogTemp: Warning: FIREEE
+[2021.07.03-06.22.33:395][339]LogTemp: Warning: Fire Condition Checked
+[2021.07.03-06.22.33:530][347]LogTemp: Warning: FIREEE
+[2021.07.03-06.22.33:746][360]LogTemp: Warning: FIREEE
+[2021.07.03-06.22.34:196][387]LogTemp: Warning: FIREEE
+[2021.07.03-06.22.34:429][401]LogTemp: Warning: FIREEE
+[2021.07.03-06.22.34:612][412]LogTemp: Warning: FIREEE
+[2021.07.03-06.22.34:829][425]LogTemp: Warning: FIREEE
+[2021.07.03-06.22.35:213][448]LogTemp: Warning: FIREEE
+[2021.07.03-06.22.35:395][459]LogTemp: Warning: Fire Condition Checked
+[2021.07.03-06.22.35:630][473]LogTemp: Warning: FIREEE
+[2021.07.03-06.22.35:879][488]LogTemp: Warning: FIREEE
+[2021.07.03-06.22.36:046][498]LogTemp: Warning: FIREEE
+[2021.07.03-06.22.36:363][517]LogTemp: Warning: FIREEE
+[2021.07.03-06.22.36:563][529]LogTemp: Warning: FIREEE
+[2021.07.03-06.22.37:246][570]LogTemp: Warning: FIREEE
+[2021.07.03-06.22.37:396][579]LogTemp: Warning: Fire Condition Checked
+[2021.07.03-06.22.37:446][582]LogTemp: Warning: FIREEE
+[2021.07.03-06.22.37:663][595]LogTemp: Warning: FIREEE
+[2021.07.03-06.22.38:113][622]LogTemp: Warning: FIREEE
+[2021.07.03-06.22.38:346][636]LogTemp: Warning: FIREEE
+[2021.07.03-06.22.38:563][649]LogTemp: Warning: FIREEE
+[2021.07.03-06.22.39:280][692]LogTemp: Warning: FIREEE
+[2021.07.03-06.22.39:396][699]LogTemp: Warning: Fire Condition Checked
+[2021.07.03-06.22.39:481][704]LogTemp: Warning: FIREEE
+[2021.07.03-06.22.39:663][715]LogTemp: Warning: FIREEE
+[2021.07.03-06.22.40:381][758]LogTemp: Warning: FIREEE
+[2021.07.03-06.22.40:680][776]LogTemp: Warning: FIREEE
+[2021.07.03-06.22.41:047][798]LogTemp: Warning: FIREEE
+[2021.07.03-06.22.41:395][819]LogTemp: Warning: Fire Condition Checked
+[2021.07.03-06.22.43:396][939]LogTemp: Warning: Fire Condition Checked
+[2021.07.03-06.22.45:396][ 59]LogTemp: Warning: Fire Condition Checked
+[2021.07.03-06.22.47:397][179]LogTemp: Warning: Fire Condition Checked
+[2021.07.03-06.22.49:403][299]LogTemp: Warning: FIREEE
+[2021.07.03-06.22.49:403][299]LogTemp: Warning: Fire Condition Checked
+[2021.07.03-06.22.51:403][419]LogTemp: Warning: FIREEE
+[2021.07.03-06.22.51:403][419]LogTemp: Warning: Fire Condition Checked
+[2021.07.03-06.22.53:402][539]LogTemp: Warning: FIREEE
+[2021.07.03-06.22.53:402][539]LogTemp: Warning: Fire Condition Checked
+[2021.07.03-06.22.55:403][659]LogTemp: Warning: FIREEE
+[2021.07.03-06.22.55:403][659]LogTemp: Warning: Fire Condition Checked
+[2021.07.03-06.22.57:403][779]LogTemp: Warning: FIREEE
+[2021.07.03-06.22.57:403][779]LogTemp: Warning: Fire Condition Checked
+[2021.07.03-06.22.59:395][898]LogTemp: Warning: FIREEE
+[2021.07.03-06.22.59:395][898]LogTemp: Warning: Fire Condition Checked
+[2021.07.03-06.23.01:395][ 18]LogTemp: Warning: FIREEE
+[2021.07.03-06.23.01:395][ 18]LogTemp: Warning: Fire Condition Checked
+[2021.07.03-06.23.03:396][138]LogTemp: Warning: FIREEE
+[2021.07.03-06.23.03:396][138]LogTemp: Warning: Fire Condition Checked
+[2021.07.03-06.23.05:396][258]LogTemp: Warning: Fire Condition Checked
+[2021.07.03-06.23.07:396][378]LogTemp: Warning: Fire Condition Checked
+[2021.07.03-06.23.09:397][498]LogTemp: Warning: FIREEE
+[2021.07.03-06.23.09:397][498]LogTemp: Warning: Fire Condition Checked
+[2021.07.03-06.23.11:397][618]LogTemp: Warning: FIREEE
+[2021.07.03-06.23.11:397][618]LogTemp: Warning: Fire Condition Checked
+[2021.07.03-06.23.13:397][738]LogTemp: Warning: Fire Condition Checked
+[2021.07.03-06.23.15:398][858]LogTemp: Warning: FIREEE
+[2021.07.03-06.23.15:398][858]LogTemp: Warning: Fire Condition Checked
+[2021.07.03-06.23.17:397][978]LogTemp: Warning: Fire Condition Checked
+[2021.07.03-06.23.17:415][979]LogTemp: Warning: FIREEE
+[2021.07.03-06.23.17:648][993]LogTemp: Warning: FIREEE
+[2021.07.03-06.23.19:214][ 87]LogTemp: Warning: FIREEE
+[2021.07.03-06.23.19:397][ 98]LogTemp: Warning: Fire Condition Checked
+[2021.07.03-06.23.19:999][134]LogTemp: Warning: FIREEE
+[2021.07.03-06.23.21:398][218]LogTemp: Warning: FIREEE
+[2021.07.03-06.23.21:398][218]LogTemp: Warning: Fire Condition Checked
+[2021.07.03-06.23.22:948][311]LogTemp: Warning: FIREEE
+[2021.07.03-06.23.23:398][338]LogTemp: Warning: Fire Condition Checked
+[2021.07.03-06.23.25:398][458]LogTemp: Warning: Fire Condition Checked
+[2021.07.03-06.23.27:398][578]LogTemp: Warning: FIREEE
+[2021.07.03-06.23.27:398][578]LogTemp: Warning: Fire Condition Checked
+[2021.07.03-06.23.29:398][698]LogTemp: Warning: FIREEE
+[2021.07.03-06.23.29:398][698]LogTemp: Warning: Fire Condition Checked
+[2021.07.03-06.23.31:399][818]LogTemp: Warning: FIREEE
+[2021.07.03-06.23.31:399][818]LogTemp: Warning: Fire Condition Checked
+[2021.07.03-06.23.33:398][938]LogTemp: Warning: FIREEE
+[2021.07.03-06.23.33:398][938]LogTemp: Warning: Fire Condition Checked
+[2021.07.03-06.23.35:399][ 58]LogTemp: Warning: FIREEE
+[2021.07.03-06.23.35:399][ 58]LogTemp: Warning: Fire Condition Checked
+[2021.07.03-06.23.36:901][148]LogTemp: Warning: FIREEE
+[2021.07.03-06.23.37:133][162]LogTemp: Warning: FIREEE
+[2021.07.03-06.23.37:316][173]LogTemp: Warning: FIREEE
+[2021.07.03-06.23.37:400][178]LogTemp: Warning: FIREEE
+[2021.07.03-06.23.37:400][178]LogTemp: Warning: Fire Condition Checked
+[2021.07.03-06.23.37:500][184]LogTemp: Warning: FIREEE
+[2021.07.03-06.23.39:400][298]LogTemp: Warning: FIREEE
+[2021.07.03-06.23.39:400][298]LogTemp: Warning: Fire Condition Checked
+[2021.07.03-06.23.40:767][380]LogTemp: Warning: FIREEE
+[2021.07.03-06.23.41:033][396]LogTemp: Warning: FIREEE
+[2021.07.03-06.23.41:283][411]LogTemp: Warning: FIREEE
+[2021.07.03-06.23.41:399][418]LogTemp: Warning: FIREEE
+[2021.07.03-06.23.41:399][418]LogTemp: Warning: Fire Condition Checked
+[2021.07.03-06.23.41:767][440]LogTemp: Warning: FIREEE
+[2021.07.03-06.23.42:350][475]LogTemp: Warning: FIREEE
+[2021.07.03-06.23.42:534][486]LogTemp: Warning: FIREEE
+[2021.07.03-06.23.42:733][498]LogTemp: Warning: FIREEE
+[2021.07.03-06.23.42:916][509]LogTemp: Warning: FIREEE
+[2021.07.03-06.23.43:100][520]LogTemp: Warning: FIREEE
+[2021.07.03-06.23.43:267][530]LogTemp: Warning: FIREEE
+[2021.07.03-06.23.43:399][538]LogTemp: Warning: FIREEE
+[2021.07.03-06.23.43:399][538]LogTemp: Warning: Fire Condition Checked
+[2021.07.03-06.23.43:417][539]LogTemp: Warning: FIREEE
+[2021.07.03-06.23.43:617][551]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.07.03-06.23.43:618][551]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2021.07.03-06.23.43:638][551]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2021.07.03-06.23.43:639][551]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2021.07.03-06.23.43:644][551]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.03-06.23.43:644][551]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2021.07.03-06.23.43:646][551]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.07.03-06.23.43:647][551]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2021.07.03-06.23.43:648][551]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.03-06.23.43:661][551]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.03-06.23.43:662][551]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2021.07.03-06.23.43:669][551]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.03-06.23.43:692][551]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.07.03-06.23.43:698][551]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.03-06.23.43:703][551]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2021.07.03-06.23.43:717][552]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2021.07.03-06.23.44:203][580]LogSlate: Took 0.000209 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.07.03-06.23.44:262][580]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.07.03-06.23.44:413][580]LogSavePackage: Moving '../../../../../../Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/Saved/MainE29F1E374577B8C26D8018B00B9FE3FA.tmp' to '../../../../../../Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/Content/Maps/Main.umap'
+[2021.07.03-06.23.44:465][580]LogSavePackage: Moving '../../../../../../Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/Saved/Main_BuiltDataEDC516124568BBF556C0878546D8C45D.tmp' to '../../../../../../Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/Content/Maps/Main_BuiltData.uasset'
+[2021.07.03-06.23.44:481][580]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.03-06.23.44:481][580]LogContentValidation: Display: Validating World /Game/Maps/Main.Main
+[2021.07.03-06.23.44:482][580]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Main_BuiltData.Main_BuiltData
+[2021.07.03-06.25.28:784][420]LogSlate: WidgetSwitcher ('None') active index changed to -1
+[2021.07.03-06.25.28:784][420]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2021.07.03-06.25.28:839][420]LogSlate: Took 0.000234 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.07.03-06.25.30:797][463]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2021.07.03-06.25.43:932][839]Candidate modules for hot reload:
+[2021.07.03-06.25.43:932][839]  ToonTanks
+[2021.07.03-06.25.43:932][839]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ToonTanks,3805 Win64 Development -TargetType=Editor -Project="C:/Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/ToonTanks.uproject" "C:/Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/ToonTanks.uproject"  -IgnoreJunk]
+[2021.07.03-06.26.04:594][839]CompilerResultsLog: New page: Compilation - Jul 2, 2021, 10:26:04 PM
+[2021.07.03-06.26.04:595][839]CompilerResultsLog: Invalidating makefile for ToonTanksEditor (directory added)
+[2021.07.03-06.26.04:595][839]CompilerResultsLog: Parsing headers for ToonTanksEditor
+[2021.07.03-06.26.04:595][839]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\sidda\Downloads\ToonTanksProjectSetup_4.22\ToonTanksProjectSetup_4.22\ToonTanks\ToonTanks.uproject" "C:\Users\sidda\Downloads\ToonTanksProjectSetup_4.22\ToonTanksProjectSetup_4.22\ToonTanks\Intermediate\Build\Win64\ToonTanksEditor\Development\ToonTanksEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2021.07.03-06.26.04:595][839]CompilerResultsLog: Reflection code generated for ToonTanksEditor in 8.8028185 seconds
+[2021.07.03-06.26.04:595][839]CompilerResultsLog: Error: C:\Users\sidda\Downloads\ToonTanksProjectSetup_4.22\ToonTanksProjectSetup_4.22\ToonTanks\Source\ToonTanks\Actors\ProjectileBase.cpp(1) : error: Expected ProjectileBase.h to be first header included.
+[2021.07.03-06.26.04:595][839]CompilerResultsLog: Error: C:\Users\sidda\Downloads\ToonTanksProjectSetup_4.22\ToonTanksProjectSetup_4.22\ToonTanks\Source\ToonTanks\Pawns\PawnBase.cpp(1) : error: Expected PawnBase.h to be first header included.
+[2021.07.03-06.26.04:595][839]CompilerResultsLog: Error: C:\Users\sidda\Downloads\ToonTanksProjectSetup_4.22\ToonTanksProjectSetup_4.22\ToonTanks\Source\ToonTanks\Pawns\PawnTank.cpp(1) : error: Expected PawnTank.h to be first header included.
+[2021.07.03-06.26.04:595][839]CompilerResultsLog: Error: C:\Users\sidda\Downloads\ToonTanksProjectSetup_4.22\ToonTanksProjectSetup_4.22\ToonTanks\Source\ToonTanks\Pawns\PawnTurret.cpp(1) : error: Expected PawnTurret.h to be first header included.
+[2021.07.03-06.26.04:595][839]CompilerResultsLog: Building ToonTanksEditor...
+[2021.07.03-06.26.04:595][839]CompilerResultsLog: Using Visual Studio 2019 14.24.28314 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.07.03-06.26.04:595][839]CompilerResultsLog: Building 8 actions with 8 processes...
+[2021.07.03-06.26.04:595][839]CompilerResultsLog:   [1/8] HealthComponent.cpp
+[2021.07.03-06.26.04:595][839]CompilerResultsLog:   [2/8] ToonTanks.init.gen.cpp
+[2021.07.03-06.26.04:595][839]CompilerResultsLog:   [3/8] TankGameModeBase.cpp
+[2021.07.03-06.26.04:595][839]CompilerResultsLog:   [4/8] TankGameModeBase.gen.cpp
+[2021.07.03-06.26.04:595][839]CompilerResultsLog:   [5/8] HealthComponent.gen.cpp
+[2021.07.03-06.26.04:595][839]CompilerResultsLog:   [6/8] UE4Editor-ToonTanks-3805.lib
+[2021.07.03-06.26.04:595][839]CompilerResultsLog:      Creating library C:\Users\sidda\Downloads\ToonTanksProjectSetup_4.22\ToonTanksProjectSetup_4.22\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-3805.lib and object C:\Users\sidda\Downloads\ToonTanksProjectSetup_4.22\ToonTanksProjectSetup_4.22\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-3805.exp
+[2021.07.03-06.26.04:595][839]CompilerResultsLog:   [7/8] UE4Editor-ToonTanks-3805.dll
+[2021.07.03-06.26.04:595][839]CompilerResultsLog:      Creating library C:\Users\sidda\Downloads\ToonTanksProjectSetup_4.22\ToonTanksProjectSetup_4.22\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-3805.suppressed.lib and object C:\Users\sidda\Downloads\ToonTanksProjectSetup_4.22\ToonTanksProjectSetup_4.22\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-3805.suppressed.exp
+[2021.07.03-06.26.04:596][839]CompilerResultsLog:   [8/8] ToonTanksEditor.target
+[2021.07.03-06.26.04:596][839]CompilerResultsLog: Total time in Parallel executor: 8.99 seconds
+[2021.07.03-06.26.04:596][839]CompilerResultsLog: Total execution time: 20.54 seconds
+[2021.07.03-06.26.04:596][839]LogMainFrame: MainFrame: Module compiling took 20.674 seconds
+[2021.07.03-06.26.04:623][839]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2021.07.03-06.26.04:647][839]LogClass: Could not find existing class HealthComponent in package /Script/ToonTanks for HotReload, assuming new class
+[2021.07.03-06.26.04:652][839]LogClass: Could not find existing class TankGameModeBase in package /Script/ToonTanks for HotReload, assuming new class
+[2021.07.03-06.26.04:660][839]LogHotReload: Re-instancing TankGameModeBase after hot-reload.
+[2021.07.03-06.26.04:764][839]LogContentBrowser: Native class hierarchy updated for 'ToonTanks' in 0.0004 seconds. Added 6 classes and 5 folders.
+[2021.07.03-06.26.04:767][839]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2021.07.03-06.26.04:838][839]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2021.07.03-06.26.04:851][839]LogContentBrowser: Native class hierarchy populated in 0.0079 seconds. Added 3023 classes and 725 folders.
+[2021.07.03-06.26.04:851][839]Display: HotReload took 20.9s.
+[2021.07.03-06.26.04:865][839]Warning: HotReload operation took 20.9s.
+[2021.07.03-06.26.04:965][839]LogSlate: Window 'Add C++ Class' being destroyed
+[2021.07.03-06.26.04:977][839]LogHotReload: New module detected: UE4Editor-ToonTanks-3805.dll
+[2021.07.03-06.26.05:045][840]LogHotReload: Starting Hot-Reload from IDE
+[2021.07.03-06.26.05:223][840]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2021.07.03-06.26.05:229][840]LogContentBrowser: Native class hierarchy updated for 'ToonTanks' in 0.0008 seconds. Added 6 classes and 5 folders.
+[2021.07.03-06.26.05:235][840]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.07.03-06.26.05:262][840]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2021.07.03-06.26.05:288][840]LogContentBrowser: Native class hierarchy populated in 0.0167 seconds. Added 3023 classes and 725 folders.
+[2021.07.03-06.26.05:292][840]Display: HotReload took  0.2s.
+[2021.07.03-06.30.02:926][728]Candidate modules for hot reload:
+[2021.07.03-06.30.02:926][728]  ToonTanks
+[2021.07.03-06.30.02:926][728]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ToonTanks,2700 Win64 Development -TargetType=Editor -Project="C:/Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/ToonTanks.uproject" "C:/Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/ToonTanks.uproject"  -IgnoreJunk]
+[2021.07.03-06.30.02:937][728]Warning: Starting HotReload took  0.0s.
+[2021.07.03-06.30.15:595][857]CompilerResultsLog: New page: Compilation - Jul 2, 2021, 10:30:15 PM
+[2021.07.03-06.30.15:595][857]CompilerResultsLog: Parsing headers for ToonTanksEditor
+[2021.07.03-06.30.15:595][857]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\sidda\Downloads\ToonTanksProjectSetup_4.22\ToonTanksProjectSetup_4.22\ToonTanks\ToonTanks.uproject" "C:\Users\sidda\Downloads\ToonTanksProjectSetup_4.22\ToonTanksProjectSetup_4.22\ToonTanks\Intermediate\Build\Win64\ToonTanksEditor\Development\ToonTanksEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2021.07.03-06.30.15:595][857]CompilerResultsLog: Reflection code generated for ToonTanksEditor in 9.6441919 seconds
+[2021.07.03-06.30.15:595][857]CompilerResultsLog: Building ToonTanksEditor...
+[2021.07.03-06.30.15:595][857]CompilerResultsLog: Using Visual Studio 2019 14.24.28314 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.07.03-06.30.15:596][857]CompilerResultsLog: Building 6 actions with 8 processes...
+[2021.07.03-06.30.15:596][857]CompilerResultsLog:   [1/6] HealthComponent.cpp
+[2021.07.03-06.30.15:596][857]CompilerResultsLog:    C:\Users\sidda\Downloads\ToonTanksProjectSetup_4.22\ToonTanksProjectSetup_4.22\ToonTanks\Source\ToonTanks\Components\HealthComponent.h(31) : error C2061: syntax error: identifier 'AACtor'
+[2021.07.03-06.30.15:596][857]CompilerResultsLog:    C:\Users\sidda\Downloads\ToonTanksProjectSetup_4.22\ToonTanksProjectSetup_4.22\ToonTanks\Source\ToonTanks\Components\HealthComponent.cpp(23) : error C2061: syntax error: identifier 'AACtor'
+[2021.07.03-06.30.15:596][857]CompilerResultsLog:   [2/6] HealthComponent.gen.cpp
+[2021.07.03-06.30.15:596][857]CompilerResultsLog:    C:\Users\sidda\Downloads\ToonTanksProjectSetup_4.22\ToonTanksProjectSetup_4.22\ToonTanks\Source\ToonTanks/Components/HealthComponent.h(31) : error C2061: syntax error: identifier 'AACtor'
+[2021.07.03-06.30.15:596][857]CompilerResultsLog:   [3/6] ToonTanks.init.gen.cpp
+[2021.07.03-06.30.15:596][857]LogMainFrame: MainFrame: Module compiling took 12.701 seconds
+[2021.07.03-06.30.15:596][857]Warning: HotReload failed, recompile failed
+[2021.07.03-06.30.35:062][ 45]LogSlate: Window 'Message Log' being destroyed
+[2021.07.03-06.30.35:117][ 45]LogSlate: Window 'Message Log' being destroyed
+[2021.07.03-06.30.38:596][126]Candidate modules for hot reload:
+[2021.07.03-06.30.38:596][126]  ToonTanks
+[2021.07.03-06.30.38:596][126]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ToonTanks,7187 Win64 Development -TargetType=Editor -Project="C:/Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/ToonTanks.uproject" "C:/Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/ToonTanks.uproject"  -IgnoreJunk]
+[2021.07.03-06.30.38:608][126]Warning: Starting HotReload took  0.0s.
+[2021.07.03-06.30.50:908][175]CompilerResultsLog: New page: Compilation - Jul 2, 2021, 10:30:50 PM
+[2021.07.03-06.30.50:909][175]CompilerResultsLog: Parsing headers for ToonTanksEditor
+[2021.07.03-06.30.50:909][175]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\sidda\Downloads\ToonTanksProjectSetup_4.22\ToonTanksProjectSetup_4.22\ToonTanks\ToonTanks.uproject" "C:\Users\sidda\Downloads\ToonTanksProjectSetup_4.22\ToonTanksProjectSetup_4.22\ToonTanks\Intermediate\Build\Win64\ToonTanksEditor\Development\ToonTanksEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2021.07.03-06.30.50:909][175]CompilerResultsLog: Reflection code generated for ToonTanksEditor in 9.2291514 seconds
+[2021.07.03-06.30.50:909][175]CompilerResultsLog: Building ToonTanksEditor...
+[2021.07.03-06.30.50:909][175]CompilerResultsLog: Using Visual Studio 2019 14.24.28314 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.07.03-06.30.50:909][175]CompilerResultsLog: Building 5 actions with 8 processes...
+[2021.07.03-06.30.50:909][175]CompilerResultsLog:   [1/5] HealthComponent.cpp
+[2021.07.03-06.30.50:909][175]CompilerResultsLog:    C:\Users\sidda\Downloads\ToonTanksProjectSetup_4.22\ToonTanksProjectSetup_4.22\ToonTanks\Source\ToonTanks\Components\HealthComponent.cpp(23) : error C2061: syntax error: identifier 'AACtor'
+[2021.07.03-06.30.50:909][175]CompilerResultsLog:    C:\Users\sidda\Downloads\ToonTanksProjectSetup_4.22\ToonTanksProjectSetup_4.22\ToonTanks\Source\ToonTanks\Components\HealthComponent.cpp(24) : error C2511: 'void UHealthComponent::TakeDamage(AActor *,float,const UDamageType *,AController *)': overloaded member function not found in 'UHealthComponent'
+[2021.07.03-06.30.50:909][175]CompilerResultsLog:   C:\Users\sidda\Downloads\ToonTanksProjectSetup_4.22\ToonTanksProjectSetup_4.22\ToonTanks\Source\ToonTanks\Components\HealthComponent.h(12): note: see declaration of 'UHealthComponent'
+[2021.07.03-06.30.50:909][175]CompilerResultsLog:   [2/5] HealthComponent.gen.cpp
+[2021.07.03-06.30.50:909][175]LogMainFrame: MainFrame: Module compiling took 12.344 seconds
+[2021.07.03-06.30.50:910][175]Warning: HotReload failed, recompile failed
+[2021.07.03-06.31.34:206][948]LogSlate: Window 'Message Log' being destroyed
+[2021.07.03-06.31.34:246][948]LogSlate: Window 'Message Log' being destroyed
+[2021.07.03-06.31.35:959][  6]Candidate modules for hot reload:
+[2021.07.03-06.31.35:959][  6]  ToonTanks
+[2021.07.03-06.31.35:959][  6]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ToonTanks,7484 Win64 Development -TargetType=Editor -Project="C:/Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/ToonTanks.uproject" "C:/Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/ToonTanks.uproject"  -IgnoreJunk]
+[2021.07.03-06.31.35:969][  6]Warning: Starting HotReload took  0.0s.
+[2021.07.03-06.31.39:797][ 51]CompilerResultsLog: New page: Compilation - Jul 2, 2021, 10:31:39 PM
+[2021.07.03-06.31.39:797][ 51]CompilerResultsLog: Building ToonTanksEditor...
+[2021.07.03-06.31.39:797][ 51]CompilerResultsLog: Using Visual Studio 2019 14.24.28314 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.07.03-06.31.39:797][ 51]CompilerResultsLog: Building 4 actions with 8 processes...
+[2021.07.03-06.31.39:797][ 51]CompilerResultsLog:   [1/4] HealthComponent.cpp
+[2021.07.03-06.31.39:797][ 51]CompilerResultsLog:   [2/4] UE4Editor-ToonTanks-7484.lib
+[2021.07.03-06.31.39:797][ 51]CompilerResultsLog:      Creating library C:\Users\sidda\Downloads\ToonTanksProjectSetup_4.22\ToonTanksProjectSetup_4.22\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-7484.lib and object C:\Users\sidda\Downloads\ToonTanksProjectSetup_4.22\ToonTanksProjectSetup_4.22\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-7484.exp
+[2021.07.03-06.31.39:797][ 51]CompilerResultsLog:   [3/4] UE4Editor-ToonTanks-7484.dll
+[2021.07.03-06.31.39:797][ 51]CompilerResultsLog:      Creating library C:\Users\sidda\Downloads\ToonTanksProjectSetup_4.22\ToonTanksProjectSetup_4.22\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-7484.suppressed.lib and object C:\Users\sidda\Downloads\ToonTanksProjectSetup_4.22\ToonTanksProjectSetup_4.22\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-7484.suppressed.exp
+[2021.07.03-06.31.39:797][ 51]CompilerResultsLog:   [4/4] ToonTanksEditor.target
+[2021.07.03-06.31.39:798][ 51]CompilerResultsLog: Total time in Parallel executor: 1.96 seconds
+[2021.07.03-06.31.39:798][ 51]CompilerResultsLog: Total execution time: 3.52 seconds
+[2021.07.03-06.31.39:798][ 51]LogMainFrame: MainFrame: Module compiling took 3.869 seconds
+[2021.07.03-06.31.39:824][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2021.07.03-06.31.39:848][ 51]LogClass: Could not find existing class HealthComponent in package /Script/ToonTanks for HotReload, assuming new class
+[2021.07.03-06.31.39:857][ 51]LogHotReload: Re-instancing HealthComponent after hot-reload.
+[2021.07.03-06.31.39:976][ 51]LogContentBrowser: Native class hierarchy updated for 'ToonTanks' in 0.0005 seconds. Added 6 classes and 5 folders.
+[2021.07.03-06.31.39:979][ 51]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2021.07.03-06.31.40:052][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2021.07.03-06.31.40:069][ 51]LogContentBrowser: Native class hierarchy populated in 0.0098 seconds. Added 3023 classes and 725 folders.
+[2021.07.03-06.31.40:069][ 51]Display: HotReload took  4.1s.
+[2021.07.03-06.42.52:089][423]LogRenderer: Reallocating scene render targets to support 708x256 Format 10 NumSamples 1 (Frame:1).
+[2021.07.03-06.42.52:985][452]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrints/Pawns/BP_PawnTank.BP_PawnTank
+[2021.07.03-06.42.53:291][452]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 121 classes and 0 folders.
+[2021.07.03-06.42.55:622][495]LogSlate: Window 'BP_PawnTank' being destroyed
+[2021.07.03-06.42.58:807][663]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.07.03-06.42.58:807][663]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.03-06.42.58:882][663]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrints/Pawns/BP_PawnTank.BP_PawnTank
+[2021.07.03-06.43.01:272][715]LogSlate: Window 'BP_PawnTank' being destroyed
+[2021.07.03-06.43.03:066][782]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrints/Pawns/BP_PawnTurret.BP_PawnTurret
+[2021.07.03-06.43.30:467][191]LogSlate: Took 0.001372 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.07.03-06.43.35:600][393]BlueprintLog: New page: Compile BP_PawnTank
+[2021.07.03-06.43.35:814][393]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2021.07.03-06.43.36:398][408]LogSavePackage: Moving '../../../../../../Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/Saved/BP_PawnTank2FE2C9804BC2ACEF15B5B4993C81C0E1.tmp' to '../../../../../../Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/Content/BluePrints/Pawns/BP_PawnTank.uasset'
+[2021.07.03-06.43.36:431][408]AssetCheck: New page: Asset Save: BP_PawnTank
+[2021.07.03-06.43.36:431][408]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/Pawns/BP_PawnTank.BP_PawnTank
+[2021.07.03-06.43.38:383][501]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.07.03-06.43.38:383][501]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.03-06.43.38:449][501]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrints/Pawns/BP_PawnTurret.BP_PawnTurret
+[2021.07.03-06.43.45:524][757]LogSavePackage: Moving '../../../../../../Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/Saved/BP_PawnTurret08920D514BFEB341EE623D8523F53EC7.tmp' to '../../../../../../Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/Content/BluePrints/Pawns/BP_PawnTurret.uasset'
+[2021.07.03-06.43.45:539][757]AssetCheck: New page: Asset Save: BP_PawnTurret
+[2021.07.03-06.43.45:539][757]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/Pawns/BP_PawnTurret.BP_PawnTurret
+[2021.07.03-06.43.46:597][808]BlueprintLog: New page: Compile BP_PawnTurret
+[2021.07.03-06.43.46:850][808]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2021.07.03-06.43.49:312][885]LogSavePackage: Moving '../../../../../../Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/Saved/BP_PawnTurretB9421CC04B1E6E05C699D6BB6D766888.tmp' to '../../../../../../Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/Content/BluePrints/Pawns/BP_PawnTurret.uasset'
+[2021.07.03-06.43.49:324][885]AssetCheck: New page: Asset Save: BP_PawnTurret
+[2021.07.03-06.43.49:324][885]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/Pawns/BP_PawnTurret.BP_PawnTurret
+[2021.07.03-06.43.50:485][932]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2021.07.03-06.43.50:671][932]LogSavePackage: Moving '../../../../../../Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/Saved/Main4852799A49701A750760A0B80D4A60A3.tmp' to '../../../../../../Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/Content/Maps/Main.umap'
+[2021.07.03-06.43.50:716][932]LogSavePackage: Moving '../../../../../../Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/Saved/Main_BuiltData9A1EE09A4CEDB0A36F8C2289300D802E.tmp' to '../../../../../../Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/Content/Maps/Main_BuiltData.uasset'
+[2021.07.03-06.43.50:737][932]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.03-06.43.50:737][932]LogContentValidation: Display: Validating World /Game/Maps/Main.Main
+[2021.07.03-06.43.50:738][932]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Main_BuiltData.Main_BuiltData
+[2021.07.03-06.43.52:977][ 52]LogSlate: Took 0.000694 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.07.03-06.44.09:179][355]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrints/Actors/BP_ProjectileBase.BP_ProjectileBase
+[2021.07.03-06.44.11:414][458]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.07.03-06.44.11:414][458]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.03-06.44.11:487][458]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrints/Actors/BP_ProjectileBase.BP_ProjectileBase
+[2021.07.03-06.44.26:312][175]LogRenderer: Reallocating scene render targets to support 708x424 Format 10 NumSamples 1 (Frame:1).
+[2021.07.03-06.44.34:111][575]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.07.03-06.44.37:911][718]LogSavePackage: Moving '../../../../../../Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/Saved/BP_ProjectileBase046677AD4AA59E74406A29B0E6F04D4B.tmp' to '../../../../../../Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/Content/BluePrints/Actors/BP_ProjectileBase.uasset'
+[2021.07.03-06.44.37:929][718]AssetCheck: New page: Asset Save: BP_ProjectileBase
+[2021.07.03-06.44.37:929][718]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/Actors/BP_ProjectileBase.BP_ProjectileBase
+[2021.07.03-06.44.38:712][750]BlueprintLog: New page: Compile BP_ProjectileBase
+[2021.07.03-06.44.38:934][750]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2021.07.03-06.45.47:591][239]Candidate modules for hot reload:
+[2021.07.03-06.45.47:591][239]  ToonTanks
+[2021.07.03-06.45.47:591][239]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ToonTanks,5796 Win64 Development -TargetType=Editor -Project="C:/Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/ToonTanks.uproject" "C:/Users/sidda/Downloads/ToonTanksProjectSetup_4.22/ToonTanksProjectSetup_4.22/ToonTanks/ToonTanks.uproject"  -IgnoreJunk]
+[2021.07.03-06.45.47:601][239]Warning: Starting HotReload took  0.0s.
+[2021.07.03-06.45.53:656][422]CompilerResultsLog: New page: Compilation - Jul 2, 2021, 10:45:53 PM
+[2021.07.03-06.45.53:656][422]CompilerResultsLog: Building ToonTanksEditor...
+[2021.07.03-06.45.53:656][422]CompilerResultsLog: Using Visual Studio 2019 14.24.28314 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.07.03-06.45.53:657][422]CompilerResultsLog: Building 5 actions with 8 processes...
+[2021.07.03-06.45.53:657][422]CompilerResultsLog:   [1/5] TankGameModeBase.cpp
+[2021.07.03-06.45.53:657][422]CompilerResultsLog:   [2/5] HealthComponent.cpp
+[2021.07.03-06.45.53:657][422]CompilerResultsLog:   [3/5] UE4Editor-ToonTanks-5796.lib
+[2021.07.03-06.45.53:657][422]CompilerResultsLog:      Creating library C:\Users\sidda\Downloads\ToonTanksProjectSetup_4.22\ToonTanksProjectSetup_4.22\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-5796.lib and object C:\Users\sidda\Downloads\ToonTanksProjectSetup_4.22\ToonTanksProjectSetup_4.22\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-5796.exp
+[2021.07.03-06.45.53:657][422]CompilerResultsLog:   [4/5] UE4Editor-ToonTanks-5796.dll
+[2021.07.03-06.45.53:657][422]CompilerResultsLog:      Creating library C:\Users\sidda\Downloads\ToonTanksProjectSetup_4.22\ToonTanksProjectSetup_4.22\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-5796.suppressed.lib and object C:\Users\sidda\Downloads\ToonTanksProjectSetup_4.22\ToonTanksProjectSetup_4.22\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-5796.suppressed.exp
+[2021.07.03-06.45.53:657][422]CompilerResultsLog:   [5/5] ToonTanksEditor.target
+[2021.07.03-06.45.53:657][422]CompilerResultsLog: Total time in Parallel executor: 4.47 seconds
+[2021.07.03-06.45.53:657][422]CompilerResultsLog: Total execution time: 5.92 seconds
+[2021.07.03-06.45.53:657][422]LogMainFrame: MainFrame: Module compiling took 6.099 seconds
+[2021.07.03-06.45.53:707][422]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2021.07.03-06.45.53:755][422]LogContentBrowser: Native class hierarchy updated for 'ToonTanks' in 0.0005 seconds. Added 6 classes and 5 folders.
+[2021.07.03-06.45.53:759][422]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2021.07.03-06.45.53:859][422]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2021.07.03-06.45.53:876][422]LogContentBrowser: Native class hierarchy populated in 0.0089 seconds. Added 3023 classes and 725 folders.
+[2021.07.03-06.45.53:876][422]Display: HotReload took  6.3s.
+[2021.07.03-06.53.43:577][978]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.03-06.53.43:601][978]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Maps/Main.Main_C' with ClassGeneratedBy '/Game/Maps/Main.Main:PersistentLevel.Main'
+[2021.07.03-06.53.43:602][978]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.03-06.53.43:602][978]PIE: New page: PIE session: Main (Jul 2, 2021, 10:53:43 PM)
+[2021.07.03-06.53.43:602][978]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2021.07.03-06.53.43:609][978]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007103s)
+[2021.07.03-06.53.43:610][978]LogAIModule: Creating AISystem for world Main
+[2021.07.03-06.53.43:611][978]LogPlayLevel: PIE: World Init took: (0.001385s)
+[2021.07.03-06.53.43:611][978]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.008733s)
+[2021.07.03-06.53.43:682][978]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2021.07.03-06.53.43:684][978]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.03-06.53.43:684][978]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.03-06.53.43:684][978]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.03-06.53.43:684][978]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.03-06.53.43:684][978]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.03-06.53.43:684][978]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.03-06.53.43:684][978]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.03-06.53.43:684][978]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.03-06.53.43:684][978]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.03-06.53.43:684][978]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.03-06.53.43:702][978]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2021.07.03-06.53.43:702][978]LogAudioMixer: Display: Name: Speakers / Headphones (Realtek Audio)
+[2021.07.03-06.53.43:702][978]LogAudioMixer: Display: Is Default: Yes
+[2021.07.03-06.53.43:702][978]LogAudioMixer: Display: Sample Rate: 48000
+[2021.07.03-06.53.43:702][978]LogAudioMixer: Display: Channel Count Used: 2
+[2021.07.03-06.53.43:702][978]LogAudioMixer: Display: Device Channel Count: 2
+[2021.07.03-06.53.43:702][978]LogAudioMixer: Display: Channel Order:
+[2021.07.03-06.53.43:702][978]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.03-06.53.43:702][978]LogAudioMixer: Display: 1: FrontRight
+[2021.07.03-06.53.43:784][978]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2021.07.03-06.53.43:786][978]LogInit: FAudioDevice initialized.
+[2021.07.03-06.53.43:797][978]LogLoad: Game class is 'BP_GameModeBase_C'
+[2021.07.03-06.53.43:799][978]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2021.07.03-02.53.43
+[2021.07.03-06.53.43:800][978]LogWorld: Bringing up level for play took: 0.001739
+[2021.07.03-06.53.43:800][978]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2021.07.03-06.53.43:803][978]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.07.03-06.53.44:750][978]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.948 s
+[2021.07.03-06.53.44:751][978]LogOutputDevice: Error: === Handled ensure: ===
+[2021.07.03-06.53.44:751][978]LogOutputDevice: Error: 
+[2021.07.03-06.53.44:751][978]LogOutputDevice: Error: Ensure condition failed: this->IsBound() [File:C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Core\Public\Delegates/DelegateSignatureImpl.inl] [Line: 1132]
+[2021.07.03-06.53.44:751][978]LogOutputDevice: Error: Unable to bind delegate to 'TakeDamage' (function might not be marked as a UFUNCTION or object may be pending kill)
+[2021.07.03-06.53.44:751][978]LogOutputDevice: Error: Stack: 
+[2021.07.03-06.53.44:751][978]LogOutputDevice: Error: [Callstack] 0x00007ffa8433c228 UE4Editor-ToonTanks-5796.dll!DispatchCheckVerify<bool,<lambda_d380bac7447947665b6a72341fbb4c5e> >() [C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Core\Public\Misc\AssertionMacros.h:167]
+[2021.07.03-06.53.44:751][978]LogOutputDevice: Error: [Callstack] 0x00007ffa8433304d UE4Editor-ToonTanks-5796.dll!UHealthComponent::BeginPlay() [C:\Users\sidda\Downloads\ToonTanksProjectSetup_4.22\ToonTanksProjectSetup_4.22\ToonTanks\Source\ToonTanks\Components\HealthComponent.cpp:25]
+[2021.07.03-06.53.44:751][978]LogOutputDevice: Error: [Callstack] 0x00007ff9f73009d9 UE4Editor-Engine.dll!UnknownFunction []
+[2021.07.03-06.53.44:751][978]LogOutputDevice: Error: [Callstack] 0x00007ffa84336052 UE4Editor-ToonTanks-5796.dll!APawnTurret::BeginPlay() [C:\Users\sidda\Downloads\ToonTanksProjectSetup_4.22\ToonTanksProjectSetup_4.22\ToonTanks\Source\ToonTanks\Pawns\PawnTurret.cpp:23]
+[2021.07.03-06.53.44:751][978]LogOutputDevice: Error: [Callstack] 0x00007ff9f730c80d UE4Editor-Engine.dll!UnknownFunction []
+[2021.07.03-06.53.44:751][978]LogOutputDevice: Error: [Callstack] 0x00007ff9f860c762 UE4Editor-Engine.dll!UnknownFunction []
+[2021.07.03-06.53.44:751][978]LogOutputDevice: Error: [Callstack] 0x00007ff9f7a1e091 UE4Editor-Engine.dll!UnknownFunction []
+[2021.07.03-06.53.44:751][978]LogOutputDevice: Error: [Callstack] 0x00007ff9f85b7eee UE4Editor-Engine.dll!UnknownFunction []
+[2021.07.03-06.53.44:751][978]LogOutputDevice: Error: [Callstack] 0x00007ff9f7a3eeb5 UE4Editor-Engine.dll!UnknownFunction []
+[2021.07.03-06.53.44:752][978]LogOutputDevice: Error: [Callstack] 0x00007ffa385c1d49 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.07.03-06.53.44:752][978]LogOutputDevice: Error: [Callstack] 0x00007ffa385e20f6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.07.03-06.53.44:752][978]LogOutputDevice: Error: [Callstack] 0x00007ffa385fcb75 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.07.03-06.53.44:752][978]LogOutputDevice: Error: [Callstack] 0x00007ffa380ca645 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.07.03-06.53.44:752][978]LogOutputDevice: Error: [Callstack] 0x00007ffa3892dd66 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.07.03-06.53.44:752][978]LogOutputDevice: Error: [Callstack] 0x00007ff70b1f7f62 UE4Editor.exe!UnknownFunction []
+[2021.07.03-06.53.44:752][978]LogOutputDevice: Error: [Callstack] 0x00007ff70b20c3ec UE4Editor.exe!UnknownFunction []
+[2021.07.03-06.53.44:752][978]LogOutputDevice: Error: [Callstack] 0x00007ff70b20c4ca UE4Editor.exe!UnknownFunction []
+[2021.07.03-06.53.44:752][978]LogOutputDevice: Error: [Callstack] 0x00007ff70b21ceae UE4Editor.exe!UnknownFunction []
+[2021.07.03-06.53.44:752][978]LogOutputDevice: Error: [Callstack] 0x00007ff70b21fcbe UE4Editor.exe!UnknownFunction []
+[2021.07.03-06.53.44:752][978]LogOutputDevice: Error: [Callstack] 0x00007ffa94227034 KERNEL32.DLL!UnknownFunction []
+[2021.07.03-06.53.44:752][978]LogOutputDevice: Error: [Callstack] 0x00007ffa960c2651 ntdll.dll!UnknownFunction []
+[2021.07.03-06.53.44:752][978]LogOutputDevice: Error: 
+[2021.07.03-06.53.44:762][978]LogStats:                SubmitErrorReport -  0.000 s
